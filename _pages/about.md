@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+    Email:    ayadavally@uga.edu
 
+    Phone:    (321) 503-9937
 
-About Me
+# About me
 ======
+
 **Aashish Yadavally** is an *MS Candidate* in Artificial Intelligence at the University of Georgia. His Masters' thesis focuses on employing numerical weather prediction (NWP) models for the purpose of day-ahead solar irradiance forecasting. He received his B.Tech in Computer Science from Indian Institute of Information Technology, Vadodara, India.
 
 Prior to joining the *Institute for Artificial Intelligence* as a Graduate Research Assistant under [Dr. Frederick Maier](https://csci.franklin.uga.edu/directory/people/fred-maier) and [Dr. Khaled Rasheed](http://cobweb.cs.uga.edu/~khaled/), he interned as an Undergraduate Research Assistant under [Dr. Anil Vuppula](https://www.iiit.ac.in/people/faculty/anilvuppala/) at the *Speech Research Lab* at IIIT, Hyderabad, India. His work included exploring various deep learning based acoustic modeling techniques for the purpose of Automatic Speech Recognition.
