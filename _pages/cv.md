@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 [[pdf]]()
+
 ___
 
 Education
