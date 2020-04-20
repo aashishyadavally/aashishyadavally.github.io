@@ -9,6 +9,7 @@ redirect_from:
 
 [[pdf]]()
 ___
+
 Education
 ======
 * *M.S. in Artificial Intelligence*, University of Georgia, 2020 (expected)
