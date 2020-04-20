@@ -11,49 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* *M.S. in Artificial Intelligence*, University of Georgia, 2020 (expected)
+* *B.Tech. in Computer Science*, Indian Institute of Information Technology, Vadodara, 2018
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Graduate Research Assistant** (August 2018 - Present)
+  * *Institute for Artificial Intelligence*, University of Georgia
+  * Duties included:
+    * Contributing to ”Solar Irradiance Project”, collaboration between Institute for Artificial Intelligence and Georgia Power
+    * Developed an end-to-end predictive modeling framework for solar irradiance from ~2.5TB of historical forecast data
+    * Handled extending the PVLib functionality into the project
+    * Analyzing the variations in data from solar arrays, and determining effect on model development
+  * Supervisor: [Dr. Frederick Maier](https://csci.franklin.uga.edu/directory/people/fred-maier), [Dr. Khaled Rasheed](http://cobweb.cs.uga.edu/~khaled/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Undergraduate Research Assistant** (January 2018 - May 2018)
+  * *Speech Research Lab*, International Institute of Information Technology (IIIT), Hyderabad
+  * Duties included:
+    * Experimented variety of deep learning based acoustic modelling frameworks on TIMIT dataset, CHIME dataset
+    * Worked on building an end-to-end speech recognition system
+    * Participated in ”*Interspeech 2018 Low Resource ASR Challenge for Indian Languages*”
+  * Supervisor: [Dr. Anil Kumar Vuppula](https://www.iiit.ac.in/people/faculty/anilvuppala/)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**
+  * Python, Java, C, Scala, SQL, LaTeX
+* **Platforms**
+  * Linux, Anaconda, AWS, Google Cloud
+* **ML/DL Frameworks**
+  * Scikit-Learn, Keras, PyTorch, Tensorflow, Weka
+* **Technologies**
+  * Kaldi, Matlab, OpenCV, NLTK, Pynini, Spacy, Spark, Elasticsearch, Flask
 
-Publications
+
+Poster Presentations
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **The Linguistics Final Project Poster Conference**, Athens, GA (December 2019)
+  * [Sentiment Analysis Based Language Model Evaluation]()
+  * *Authors: Aashish Yadavally, Anirudh K M Kakarlapudi, Sumer Singh*
+
+* **UGA Computer Science Research Day**, Athens, GA (October 2019)
+  * [Solar Irradiance Prediction Using Distributed Machine Learning Techniques]()
+  * *Authors: Aashish Yadavally, Anirudh K M Kakarlapudi, Jayant Parashar, Frederick Maier, Khaled Rasheed*
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Honors & Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **1st Prize - Public Voting Category**, IIITV Hackathon 2016
