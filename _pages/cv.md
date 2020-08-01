@@ -13,18 +13,18 @@ ___
 
 Education
 ======
-* *M.S. in Artificial Intelligence*, University of Georgia, 2020 (expected)
-* *B.Tech. in Computer Science*, Indian Institute of Information Technology, Vadodara, 2018
+* *M.S. in Artificial Intelligence*, University of Georgia, 2020
+* *B.Tech. in Computer Science*, Indian Institute of Information Technology (IIIT), Vadodara, 2018
 
 Work Experience
 ======
-* **Graduate Research Assistant** (August 2018 - Present)
+* **Graduate Research Assistant** (August 2018 - July 2020)
   * *Institute for Artificial Intelligence*, University of Georgia
   * Duties included:
-    * Contributing to ”Solar Irradiance Project”, collaboration between Institute for Artificial Intelligence and Georgia Power
-    * Developed an end-to-end predictive modeling framework for solar irradiance from ~2.5TB of historical forecast data
+    * Contributed to ”Solar Master Project”, collaboration between *Institute for Artificial Intelligence* and *Georgia Power*
+    * Developed an end-to-end predictive modeling framework for solar irradiance from ~2.5TB of historical weather forecast data
     * Handled extending the PVLib functionality into the project
-    * Analyzing the variations in data from solar arrays, and determining effect on model development
+    * Worked on multi-model blending aproaches for a theory-driven bias correction in weather data
   * Supervisor: [Dr. Frederick Maier](https://csci.franklin.uga.edu/directory/people/fred-maier), [Dr. Khaled Rasheed](http://cobweb.cs.uga.edu/~khaled/)
 
 * **Undergraduate Research Assistant** (January 2018 - May 2018)
