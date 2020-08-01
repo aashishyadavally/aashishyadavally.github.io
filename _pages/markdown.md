@@ -7,6 +7,12 @@ redirect_from:
   - /markdown.html
 ---
 ___
+### 2020
+* July - Graduated with M.S. in Artificial Intelligence from the University of Georgia.
+* July - Successfully defended my Master's thesis titled *"An Exploration of Machine Learning Based Day-Ahead Solar Irradiance Forecasting Methodologies*.
+* May - Successfully passed *Comprehensive Oral Examination*, inching a step closer towards completing my Master's degree.
+
+
 ### 2019
 * December - Presented poster titled "Sentiment Analysis based Language Model Evaluation" at **The Linguistics Final Project Poster Conference**
 * October - Presented poster titled "Solar Irradiance Prediction using Distributed Machine Learning Techniques" at **UGA Computer Science Research Day**
