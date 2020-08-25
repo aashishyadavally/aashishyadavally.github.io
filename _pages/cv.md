@@ -15,9 +15,9 @@ Education
 ======
 * *Ph.D. Student in Computer Science*, The University of Texas at Dallas, (August 2020 - *Present*)
 * *M.S. in Artificial Intelligence*, The University of Georgia, July 2020 <br />
-   ([Thesis](): An Exploration of Machine Learning Based Day-Ahead Solar Irradiance Forecasting Methodologies)
+   ([Thesis](https://github.com/aashishyadavally/aashishyadavally.github.io/blob/master/files/MS_Thesis.pdf): An Exploration of Machine Learning Based Day-Ahead Solar Irradiance Forecasting Methodologies)
 * *B.Tech. in Computer Science*, Indian Institute of Information Technology (IIIT), Vadodara, May 2018 <br />
-   ([Capstone Project](): Automatic Speech Recognition Using Deep Learning)
+   ([Capstone Project](https://github.com/aashishyadavally/aashishyadavally.github.io/blob/master/files/BTech_Project.pdf): Automatic Speech Recognition Using Deep Learning)
 
 Work Experience
 ======
@@ -54,11 +54,11 @@ Skills
 Poster Presentations
 ======
 * **The Linguistics Final Project Poster Conference**, Athens, GA (December 2019)
-  * [Sentiment Analysis Based Language Model Evaluation]()
+  * [Sentiment Analysis Based Language Model Evaluation](https://github.com/aashishyadavally/aashishyadavally.github.io/blob/master/files/Sentiment_Analysis.pdf)
   * *Authors: Aashish Yadavally, Anirudh K M Kakarlapudi, Sumer Singh*
 
 * **UGA Computer Science Research Day**, Athens, GA (October 2019)
-  * [Solar Irradiance Prediction Using Distributed Machine Learning Techniques]()
+  * [Solar Irradiance Prediction Using Distributed Machine Learning Techniques](https://github.com/aashishyadavally/aashishyadavally.github.io/blob/master/files/Solar_Irradiance_Prediction.pdf)
   * *Authors: Aashish Yadavally, Anirudh K M Kakarlapudi, Jayant Parashar, Frederick Maier, Khaled Rasheed*
 
   
