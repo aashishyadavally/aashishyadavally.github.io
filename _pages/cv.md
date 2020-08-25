@@ -13,8 +13,11 @@ ___
 
 Education
 ======
-* *M.S. in Artificial Intelligence*, University of Georgia, 2020
-* *B.Tech. in Computer Science*, Indian Institute of Information Technology (IIIT), Vadodara, 2018
+* *Ph.D. Student in Computer Science*, The University of Texas at Dallas, (August 2020 - *Present*)
+* *M.S. in Artificial Intelligence*, The University of Georgia, July 2020 <br />
+   ([Thesis](): An Exploration of Machine Learning Based Day-Ahead Solar Irradiance Forecasting Methodologies)
+* *B.Tech. in Computer Science*, Indian Institute of Information Technology (IIIT), Vadodara, May 2018 <br />
+   ([Capstone Project](): Automatic Speech Recognition Using Deep Learning)
 
 Work Experience
 ======
