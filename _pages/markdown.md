@@ -8,6 +8,7 @@ redirect_from:
 ---
 ___
 ### 2020
+* August - Began Ph.D in Computer Science at the University of Texas at Dallas.
 * July - Graduated with M.S. in Artificial Intelligence from the University of Georgia.
 * July - Successfully defended my Master's thesis titled *"An Exploration of Machine Learning Based Day-Ahead Solar Irradiance Forecasting Methodologies*.
 * May - Successfully passed *Comprehensive Oral Examination*, inching a step closer towards completing my Master's degree.
