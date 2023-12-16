@@ -12,6 +12,7 @@ profile:
     <p>ECSS 4.417</p>
     <p>The University of Texas at Dallas</p>
     <p>Richardson, TX 75082</p>
+    <p></p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -30,10 +31,11 @@ Through my academic journey, I have been fortunate to work under the guidance of
 <br/> &nbsp; [Dr. Hemant Patil](https://sites.google.com/site/hemantpatildaiict/) heads the Speech Research Lab, and is a Professor at the Dhirubhai Ambani Institute for Information and Communication Technology (DA-IICT).
 
 **You may see me at the following Conferences or Events**
-<br/> &nbsp; 2023 ESEC/FSE (San Francisco, CA, USA), ICSE (Melbourne, Australia)
-<br/> &nbsp; 2022 ASE (Detroit, MI, USA), ICSE (Pittsburgh, PA, USA), SANER (Virtual)
+<br/> &nbsp; 2023 &nbsp; ESEC/FSE (San Francisco, CA, USA), ICSE (Melbourne, Australia)
+<br/> &nbsp; 2022 &nbsp; ASE (Detroit, MI, USA), ICSE (Pittsburgh, PA, USA), SANER (Virtual)
 
 **Favourite Quotes**
 - *"The future depends on what we do in the present."* ~ Mohandas Karamchand Gandhi
 - *"If you work with determination and with perfection, success will follow."* ~ Dhirubhai Ambani 
+
 ---
