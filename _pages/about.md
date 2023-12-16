@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>ECSS 4.417</p>
-    <p>The University of Texas at Dallas</p>
-    <p>Richardson, TX 75082</p>
-    <p></p>
+    <p>  ECSS 4.417</p>
+    <p>  The University of Texas at Dallas</p>
+    <p>  Richardson, TX 75082</p>
+    <p>  </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
