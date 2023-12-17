@@ -2,96 +2,102 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Aashish Yadavally
     - name: Languages
-      value: English, German
+      value: English, Hindi, Telugu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: University of Texas at Dallas, USA
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - <u>Advisor:</u> Dr. Tien N. Nguyen
+
+    - title: M.S. in Artificial Intelligence
+      institution: University of Georgia, USA
+      year: 2018 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - <u>Thesis:</u> "An Exploration of Machine Learning-Based Day-Ahead Solar Irradiance Forecasting Methodologies"
+        - <u>Advisor:</u> Dr. Frederick Maier
+    - title: B.Tech. in Computer Science
+      institution: Indian Institute of Information Technology, Vadodara
+      year: 2014 - 2018
+      description:
+        - <u>Capstone Project:</u> "Automatic Speech Recognition Using Deep Learning"
+        - <u>Advisor:</u> Dr. Anil Kupar Vuppula, IIIT Hyderabad
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Computer Science Department, University of Texas at Dallas
+      year: August 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - <u>Supervisor:</u> Dr. Tien N. Nguyen
+
+    - title: Data Scientist Intern
+      institution: A.I. Camp
+      year: June 2021 - August 2021
+
+    - title: Graduate Teaching Assistant
+      institution: Computer Science Department, University of Texas at Dallas
+      year: August 2020 - July 2022
       description:
-        - Description 1.
-        - Description 2.
+        - <u>Courses:<u> Probability and Statistics in Computer Science, Convolution Neural Networks, Digital Logic and Design.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Graduate Research Assistant
+      institution: Institute for Artificial Intelligence, University of Georgia
+      year: August 2018 - July 2020
       description:
+        - <u>Supervisors:</u> Dr. Frederick Maier, Dr. Khaled Rasheed
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Awarded the ACM SIGSOFT Travel Grant for USD 400 to attend ESEC/FSE 2023. 
+    - year: 2023
       items: 
-        - Max Planck Medal
+        - Awarded the NSF Travel Grant to attend MAPS 2023. 
+    - year: 2023
+      items: 
+        - Awarded the ACM SIGSOFT Travel Grant for USD 500 to attend ICSE 2023. 
+    - year: 2023
+      items: 
+        - Our work, "(Partial) Program Dependence Learning", was nominated for ACM SIGSOFT Distinguished Paper Award at the 45th IEEE/ACM International Conference on Software Engineering (ICSE'23). 
+    - year: 2022
+      items: 
+        - Our work, "Phrase2Set. Phrase-to-Set Machine Translation and Its Software Engineering Applications", was awarded IEEE Computer Society TCSE Distinguished Paper Award at the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'22).
+    - year: 2021
+      items: 
+        - First Prize, Project Dazzle, A.I. Camp Hackathon 
+    - year: 2016
+      items: 
+        - First Prize in Public Voting Category, IIIT-Vadodara Hackathon 
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI for Partial Program Analysis.
       items: 
         - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - title: AI for Software Security.
       items:
         - Description 1.
-        - Description 2.
 
-- title: Other Interests
+- title: Academic Service
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Program Committee, International Conference on Software Engineering (ICSE'24, Artifact Evaluation Track).
+    - Junior Program Committee, International Conference on Mining Software Repositories (MSR'24, Technical Track).
+    - Junior Program Committee, International Conference on Mining Software Repositories (MSR'23, Technical Track).
