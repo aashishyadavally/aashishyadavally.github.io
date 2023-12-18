@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Will be serving as **Junior PC** at *MSR 2023* in the Technical Research track. 
+Will be serving as **PC** at *ICSE 2024* in the Artifact Evaluation track. 
