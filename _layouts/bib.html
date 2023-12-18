@@ -136,10 +136,10 @@
         </div>
         <div class="periodical">
           {% if entry.award -%}
-            <p> &#127942; {<span style="color:red"> { entry.not | strip } </span>} </p>
+            <p> &#127942; <span style="color:red"> { entry.note } </span></p>
           {%- endif -%}
           {% if entry.nomination -%}
-            <p> &#127942; {<span style="color:blue"><em>Nominated for</em> { entry.note | strip }</span>} </p>
+            <p> &#127942; <span style="color:blue"><em>Nominated for</em> { entry.note }</span></p>
           {%- endif -%}
         </div>
 
