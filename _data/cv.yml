@@ -46,7 +46,7 @@
       institution: Computer Science Department, University of Texas at Dallas
       year: 2020 - 2022
       description:
-        - <u>Courses:</u> Probability and Statistics in Computer Science, Convolution Neural Networks, Digital Logic and Design.
+        - <u>Courses:</u> Probability and Statistics in Computer Science, Convolution Neural Networks, Automata Theory.
 
     - title: Graduate Research Assistant
       institution: Institute for Artificial Intelligence, University of Georgia
@@ -96,7 +96,7 @@
 #       items:
 #         - Description 1.
 
-- title: Academic Service
+- title: Research Interests
   type: list
   contents:
     - AI for Partial Program Analysis
