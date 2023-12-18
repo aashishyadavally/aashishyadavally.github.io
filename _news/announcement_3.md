@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+title: Pursuing Ph.D. degree at the University of Texas at Dallas
+date: 2020-07-01 00:00:01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started career as a Ph.D. student in Computer Science at the *University of Texas at Dallas*.
