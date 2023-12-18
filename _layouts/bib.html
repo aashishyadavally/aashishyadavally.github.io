@@ -236,5 +236,19 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+
+          {% if entry.award -%}
+          <!-- Hidden award block -->
+          <div class="abstract hidden">
+            <p> &#127942; {<span style="color:red"> { entry.award } </span>} </p>
+          </div>
+          {%- endif -%}
+
+          {% if entry.nomination -%}
+          <!-- Hidden nomination block -->
+          <div class="abstract hidden">
+            <p> &#127942; {<span style="color:blue"><em>Nominated for</em> { entry.nomination }</span>} </p>
+          </div>
+          {%- endif -%}
         </div>
       </div>

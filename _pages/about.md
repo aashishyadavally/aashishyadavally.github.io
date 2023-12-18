@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. <a href='#'>Contacts</a>.
+subtitle: <a href='https://aashishyadavally.github.io/cv/#education'>Affiliations</a>. <a href='#'>Contacts</a>.
 
 profile:
   align: right
@@ -37,5 +37,3 @@ Through my academic journey, I have been fortunate to work under the guidance of
 **Favourite Quotes**
 - *"The future depends on what we do in the present."* ~ Mohandas Karamchand Gandhi
 - *"If you work with determination and with perfection, success will follow."* ~ Dhirubhai Ambani 
-
----
