@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
+    - title: Ph.D. in Computer Science
       institution: University of Texas at Dallas, USA
       year: 2020 - Present
       description:
@@ -21,6 +21,7 @@
       description:
         - <u>Thesis:</u> "An Exploration of Machine Learning-Based Day-Ahead Solar Irradiance Forecasting Methodologies"
         - <u>Advisor:</u> Dr. Frederick Maier
+
     - title: B.Tech. in Computer Science
       institution: Indian Institute of Information Technology, Vadodara
       year: 2014 - 2018
@@ -28,28 +29,28 @@
         - <u>Capstone Project:</u> "Automatic Speech Recognition Using Deep Learning"
         - <u>Advisor:</u> Dr. Anil Kupar Vuppula, IIIT Hyderabad
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
       institution: Computer Science Department, University of Texas at Dallas
-      year: August 2022 - Present
+      year: 2022 - Present
       description:
         - <u>Supervisor:</u> Dr. Tien N. Nguyen
 
     - title: Data Scientist Intern
       institution: A.I. Camp
-      year: June 2021 - August 2021
+      year: 2021 - 2021
 
     - title: Graduate Teaching Assistant
       institution: Computer Science Department, University of Texas at Dallas
-      year: August 2020 - July 2022
+      year: 2020 - 2022
       description:
-        - <u>Courses:<u> Probability and Statistics in Computer Science, Convolution Neural Networks, Digital Logic and Design.
+        - <u>Courses:</u> Probability and Statistics in Computer Science, Convolution Neural Networks, Digital Logic and Design.
 
     - title: Graduate Research Assistant
       institution: Institute for Artificial Intelligence, University of Georgia
-      year: August 2018 - July 2020
+      year: 2018 - 2020
       description:
         - <u>Supervisors:</u> Dr. Frederick Maier, Dr. Khaled Rasheed
 
@@ -74,10 +75,10 @@
         - Awarded the ACM SIGSOFT Travel Grant for USD 500 to attend ICSE 2023. 
     - year: 2023
       items: 
-        - Our work, "(Partial) Program Dependence Learning", was nominated for ACM SIGSOFT Distinguished Paper Award at the 45th IEEE/ACM International Conference on Software Engineering (ICSE'23). 
+        - Our work, "*(Partial) Program Dependence Learning*", was nominated for **ACM SIGSOFT Distinguished Paper Award** at the 45th IEEE/ACM International Conference on Software Engineering (ICSE'23). 
     - year: 2022
       items: 
-        - Our work, "Phrase2Set. Phrase-to-Set Machine Translation and Its Software Engineering Applications", was awarded IEEE Computer Society TCSE Distinguished Paper Award at the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'22).
+        - Our work, "*Phrase2Set. Phrase-to-Set Machine Translation and Its Software Engineering Applications*", was awarded **IEEE Computer Society TCSE Distinguished Paper Award** at the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'22).
     - year: 2021
       items: 
         - First Prize, Project Dazzle, A.I. Camp Hackathon 
@@ -85,15 +86,21 @@
       items: 
         - First Prize in Public Voting Category, IIIT-Vadodara Hackathon 
 
-- title: Research Interests
-  type: nested_list
+# - title: Research Interests
+#   type: nested_list
+#   contents:
+#     - title: AI for Partial Program Analysis.
+#       items: 
+#         - Description 1.
+#     - title: AI for Software Security.
+#       items:
+#         - Description 1.
+
+- title: Academic Service
+  type: list
   contents:
-    - title: AI for Partial Program Analysis.
-      items: 
-        - Description 1.
-    - title: AI for Software Security.
-      items:
-        - Description 1.
+    - AI for Partial Program Analysis
+    - AI for Software Security
 
 - title: Academic Service
   type: list
