@@ -40,7 +40,7 @@
 
     - title: Data Scientist Intern
       institution: A.I. Camp
-      year: 2021 - 2021
+      year: 2021
 
     - title: Graduate Teaching Assistant
       institution: Computer Science Department, University of Texas at Dallas
@@ -75,10 +75,10 @@
         - Awarded the ACM SIGSOFT Travel Grant for USD 500 to attend ICSE 2023. 
     - year: 2023
       items: 
-        - Our work, "*(Partial) Program Dependence Learning*", was nominated for **ACM SIGSOFT Distinguished Paper Award** at the 45th IEEE/ACM International Conference on Software Engineering (ICSE'23). 
+        - Our work, "(Partial) Program Dependence Learning", was nominated for ACM SIGSOFT Distinguished Paper Award at the 45th IEEE/ACM International Conference on Software Engineering (ICSE'23). 
     - year: 2022
       items: 
-        - Our work, "*Phrase2Set. Phrase-to-Set Machine Translation and Its Software Engineering Applications*", was awarded **IEEE Computer Society TCSE Distinguished Paper Award** at the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'22).
+        - Our work, "Phrase2Set. Phrase-to-Set Machine Translation and Its Software Engineering Applications", was awarded IEEE Computer Society TCSE Distinguished Paper Award at the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER'22).
     - year: 2021
       items: 
         - First Prize, Project Dazzle, A.I. Camp Hackathon 
