@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Easiest to reach out to via email :)
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -303,7 +303,7 @@ enable_publication_badges:
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
+filtered_bibtex_keywords: [abbr, abbr_show, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit:  # leave blank to always show all authors
