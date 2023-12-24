@@ -6,8 +6,6 @@ inline: false
 related_posts: false
 ---
 
-:tada: Our paper on ***A Hybrid Approach for Inference between Behavioral Exception API Documentation and Implementations, and Its Applications***, is accepted for publication at the 37th IEEE/ACM International Conference on Automated Software Engineering - **ASE 2022**.
-
 |:---: | :--- |
 | Title | Phrase2Set: Phrase-to-Set Machine Translation and its Software Engineering Applications**|
 | Venue | *Virtual* |
