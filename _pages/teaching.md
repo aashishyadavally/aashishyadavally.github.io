@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 * Spring 2022
-    * Teaching Assistant, CS (Digital Logic and Computer Design)
+    * Teaching Assistant, CS4341 (Digital Logic and Computer Design)
 * Fall 2022
     * Teaching Assistant, CS4341 (Digital Logic and Computer Design)
 * Spring 2021
