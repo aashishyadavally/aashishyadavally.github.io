@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Passed *Comprehensive Oral Examination*, inching a step closer towards completing my Master's degree.
+Passed my *Comprehensive Oral Examination* for my M.S. degree in A.I.

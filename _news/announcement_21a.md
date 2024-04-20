@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Will be serving in the **Junior Program Committee** at *MSR 2024* in the Technical Research track.
+Will be serving in the Junior Program Committee at *MSR 2024* in the Technical Research track.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the ***NSF Student Travel Grant*** to attend MAPS Workshop, co-located with ESEC/FSE 2023.
+Awarded the *NSF Student Travel Grant* to attend MAPS Workshop, co-located with ESEC/FSE 2023.

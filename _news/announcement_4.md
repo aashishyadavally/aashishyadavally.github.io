@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began working as a Data Scientist Intern at A.I. Camp.
+Began working as a Data Scientist Intern at A.I. Camp!

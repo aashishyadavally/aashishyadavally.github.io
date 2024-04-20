@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully defended my Masters' thesis titled "*An Exploration of Machine Learning Based Day-Ahead Solar Irradiance Forecasting Methodologies*", and graduated with an **M.S. degree in Artificial Intelligence**.
+:graduation_cap: Successfully defended my Masters' thesis -- graduated with an **M.S. degree in Artificial Intelligence**.

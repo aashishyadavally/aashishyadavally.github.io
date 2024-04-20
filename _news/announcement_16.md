@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the ***ACM SIGSOFT CAPS Travel Grant*** of USD 500 to attend ICSE 2023.
+Awarded the *ACM SIGSOFT CAPS Travel Grant* of USD 500 to attend ICSE 2023.

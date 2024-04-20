@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Will be serving in the **Program Committee** at *ICSE 2024* in the Artifact Evaluation track. 
+Will be serving in the Program Committee at *ICSE 2024* in the Artifact Evaluation track. 

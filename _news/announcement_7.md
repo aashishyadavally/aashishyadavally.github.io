@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One paper accepted at SANER 2022.
+title: One paper accepted at SANER 2022
 date: 2021-12-01 00:00:00
 inline: false
 related_posts: false
