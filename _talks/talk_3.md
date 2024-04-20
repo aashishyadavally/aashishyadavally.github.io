@@ -1,6 +1,7 @@
 ---
 layout: post
-title: \[Conference\] Talks at ICSE 2023.
+type: Conference
+title: Talks at ICSE 2023.
 date: 2023-05-19 00:00:00
 inline: false
 related_posts: false
