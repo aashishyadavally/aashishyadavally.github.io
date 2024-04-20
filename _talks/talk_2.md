@@ -1,6 +1,7 @@
 ---
 layout: post
-title: \[Conference\] Talk at ASE 2022.
+type: Conference
+title: Talk at ASE 2022.
 date: 2022-10-11 00:00:00
 inline: false
 related_posts: false
