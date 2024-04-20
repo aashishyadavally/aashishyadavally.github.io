@@ -6,7 +6,7 @@
       {% for item in talks %}
         <tr>
           <th scope="row" style="width: 20%">{{ item.date | date: "%b %-d, %Y" }}</th>
-          <th scope="row" style="width: 20%">{{ [item.type] }}</th>
+          <th scope="row" style="width: 15%">{{ item.type }}</th>
           <td>
             {% if item.inline -%}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
