@@ -1,6 +1,7 @@
 ---
 layout: post
-title: \[Conference\] Talk at SANER 2022.
+type: Conference
+title: Talk at SANER 2022.
 date: 2022-03-12 00:00:00
 inline: false
 related_posts: false
