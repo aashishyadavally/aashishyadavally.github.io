@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk at ASE 2022 (In-Person).
+title: [Conference] Talk at ASE 2022.
 date: 2022-10-11 00:00:00
 inline: false
 related_posts: false

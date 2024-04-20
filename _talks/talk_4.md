@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talks at ESEC/FSE 2023 (In-Person).
+title: [Conference] Talks at ESEC/FSE 2023.
 date: 2023-12-06 00:00:00
 inline: false
 related_posts: false
