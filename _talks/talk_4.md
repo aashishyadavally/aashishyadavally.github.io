@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Conference] Talks at ESEC/FSE 2023.
+title: \[Conference\] Talks at ESEC/FSE 2023.
 date: 2023-12-06 00:00:00
 inline: false
 related_posts: false

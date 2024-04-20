@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Invited] Talk at TruX Open Online Seminars (TOOS), University of Luxembourg.
+title: \[Invited\] Talk at TruX Open Online Seminars (TOOS), University of Luxembourg.
 date: 2024-01-15 00:00:00
 inline: false
 related_posts: false
