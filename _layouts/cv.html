@@ -101,5 +101,5 @@ layout: default
 {% endunless %}
 -->
 <div class="post">
-  <a href="{{ cv.pdf }}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fa-solid fa-file-pdf"></i></a>
+  <a href="{{ cv.pdf | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fa-solid fa-file-pdf"></i></a>
 </div>
