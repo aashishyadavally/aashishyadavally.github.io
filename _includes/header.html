@@ -85,7 +85,7 @@
               </li>
               {%- else %}
               <!-- Redirect CV to cv.pdf -->
-              {%- if page.permalink == 'cv' %}
+              {%- if p.title == 'cv' %}
               <li class="nav-item active">
                 <a class="nav-link" href='assets/pdf/cv.pdf'> Curriculum Vitae </a>
                 </a>
@@ -98,6 +98,7 @@
                   {%- endif -%}
                 </a>
               </li>
+              {%- endif -%}
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
