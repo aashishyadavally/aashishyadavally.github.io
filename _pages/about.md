@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 For starters, my first name is pronounced  /	ɑ:ʃi:ʃ /.
 
-I am a fourth-year Ph.D. student in Computer Science at the University of Texas at Dallas. With [Dr. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html) as my research advisor, I am curently exploring problems at the intersection of Artificial Intelligence and Software Engineering, specifically to enable ***analysis of partial programs*** for improving security of software systems.
+I am a fifth-year Ph.D. student in Computer Science at the University of Texas at Dallas. With [Dr. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html) as my research advisor, I am curently exploring problems at the intersection of Artificial Intelligence and Software Engineering. In particular, I am interested in exploring the ability of *machine learning models in understanding program behaviors* - enabling the analysis of partial programs for improving security of software systems. Our work has received multiple best paper awards, including the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024, and the **IEEE TCSE Distinguished Paper Award** at SANER 2022.
 
 Through my academic journey, I have been fortunate to work under the guidance of/with wonderful people and researchers in: 
 <br/> &nbsp; [Dr. David Shaohua Wang](https://davidshaohuawang.wordpress.com/) is an Assistant Professor in the Department of Informatics, New Jersey Institute of Technology.
@@ -31,6 +31,7 @@ Through my academic journey, I have been fortunate to work under the guidance of
 <br/> &nbsp; [Dr. Hemant Patil](https://sites.google.com/site/hemantpatildaiict/) heads the Speech Research Lab, and is a Professor at the Dhirubhai Ambani Institute for Information and Communication Technology (DA-IICT).
 
 **You may see me at the following Conferences or Events**
+<br/> &nbsp; 2024 &nbsp; OOPSLA (Pasadena, CA, USA), FSE (Porto de Galinhas, Brazil)
 <br/> &nbsp; 2023 &nbsp; ESEC/FSE (San Francisco, CA, USA), ICSE (Melbourne, Australia)
 <br/> &nbsp; 2022 &nbsp; ASE (Detroit, MI, USA), ICSE (Pittsburgh, PA, USA), SANER (Virtual)
 
