@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+* Spring 2025
+    * Teaching Assistant, CS3354 (Software Engineering)
+* Fall 2024
+    * Teaching Assistant, CS4384 (Automata Theory)
 * Spring 2022
     * Teaching Assistant, CS4341 (Digital Logic and Computer Design)
 * Fall 2022
