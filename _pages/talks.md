@@ -8,6 +8,16 @@ nav_order: 3
 ---
 
 ### Invited Talks
+* 03/2025 - "*Can Large Language Models Reason about Program Behaviors*"
+  - School of Electrical and Computer Engineering, University of Arizona
+* 03/2025 - "*Can Large Language Models Reason about Program Behaviors*"
+  - Department of Computer Science, University of Vermont
+* 02/2025 - "*Can Large Language Models Reason about Program Behaviors*"
+  - School of Computing, Binghamton University
+* 02/2025 - "*Can Large Language Models Reason about Program Behaviors*"
+  - Department of Computer Science, University of Central Florida
+* 02/2025 - "*Can Large Language Models Reason about Program Behaviors*"
+  - School of Electrical Engineering and Computer Science, Washington State University
 * 06/2024 - "*Learning to Analyze Program Behaviors*", **Doctoral Symposium - FSE 2024**
 * 01/2024 - "*Contextuality of Code Representation Learning*"
   - Trux Open Online Seminar (TOOS), University of Luxembourg
