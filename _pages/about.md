@@ -23,9 +23,9 @@ social: true  # includes social icons at the bottom of the page
 
 For starters, my first name is pronounced  /	ɑ:ʃi:ʃ /.
 
-I am a fifth-year Ph.D. student in Computer Science at the University of Texas at Dallas, working under the guidance of [Dr. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html). My research lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). I explore if/how machine learning models understand program behaviors, particularly focusing on partial program analysis and software security. My work has been recognized with multiple best paper awards, including the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024, and the **IEEE TCSE Distinguished Paper Award** at SANER 2022. 
+I am a fifth-year Ph.D. student in Computer Science at the University of Texas at Dallas, working with [Dr. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html). My research lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). I explore if/how machine learning models understand program behaviors, particularly focusing on partial program analysis and software security. My work has been recognized with multiple honors, including the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024, the **IEEE TCSE Distinguished Paper Award** at SANER 2022, and a nomination at ICSE 2023. 
 
-***\*I am looking for tenure-track faculty positions starting Fall 2025\****
+***\* [Update] I will be starting as an Assistant Professor at the [University of Central Florida](https://csrankings.org/#/index?soft&us) in Fall 2025. If you are an Undergraduate, Master's, or Ph.D. student interested in cutting-edge research in this exciting area, I'd love to hear from you!\****
 
 Broadly, my research interests can be summarized as follows:
 * Large Language Models for Reasoning on Source Code ([ICSE'25](), [FORGE'24](https://aashishyadavally.github.io/assets/pdf/pub-forge2024.pdf))
