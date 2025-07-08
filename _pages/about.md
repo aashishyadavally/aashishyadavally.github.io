@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Bio:** &nbsp;&nbsp; I will be joining the [University of Central Florida](https://csrankings.org/#/index?soft&us) as a tenure-track Assistant Professor starting Fall 2025. I recently completed my Ph.D. in Computer Science at the University of Texas at Dallas, advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html).
+**Bio:** &nbsp;&nbsp; I will be joining the [University of Central Florida](https://csrankings.org/#/index?soft&us) as an Assistant Professor starting Fall 2025. I recently completed my Ph.D. in Computer Science at the University of Texas at Dallas, advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html).
 
 **Prospective Students:** &nbsp;&nbsp; I am actively looking for brilliant students with a strong foundation and interest in programming languages, compilers, software engineering, and/or AI to join my research group, **SAIL@UCF** (**S**oftware Engineering and **A**rtificial **I**ntelligence Research **L**ab, webpage coming shortly). Feel free to reach out with a copy of your CV and background, via email: aashish [dot] yadavally [at] ucf [dot] edu
 
