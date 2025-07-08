@@ -20,20 +20,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+**[Bio]** I will be joining the [University of Central Florida](https://csrankings.org/#/index?soft&us) as a tenure-track Assistant Professor starting Fall 2025.
 
-For starters, my first name is pronounced  /	ɑ:ʃi:ʃ /.
+I recently completed my Ph.D. in Computer Science at the University of Texas at Dallas, advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html).
 
-I am a fifth-year Ph.D. student in Computer Science at the University of Texas at Dallas, working with [Dr. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html). My research lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). I explore if/how machine learning models understand program behaviors, particularly focusing on partial program analysis and software security. My work has been recognized with multiple honors, including the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024, the **IEEE TCSE Distinguished Paper Award** at SANER 2022, and a nomination at ICSE 2023. 
+**[Prospective Students]** I am actively looking for brilliant students with a strong foundation and interest in programming languages, compilers, software engineering, and/or AI to join my research group: SAIL@UCF (**S**oftware Engineering and **A**rtificial **I**ntelligence Research **L**ab, webpage coming shortly).
 
-***\* [Update] I will be starting as an Assistant Professor at the [University of Central Florida](https://csrankings.org/#/index?soft&us) in Fall 2025. If you are an Undergraduate, Master's, or Ph.D. student interested in cutting-edge research in this exciting area, I'd love to hear from you!\****
+Feel free to reach out with a copy of your CV and background, via email: aashish [dot] yadavally [at] ucf [dot] edu
 
-Broadly, my research interests can be summarized as follows:
-* Large Language Models for Reasoning on Source Code ([ICSE'25](), [FORGE'24](https://aashishyadavally.github.io/assets/pdf/pub-forge2024.pdf))
-* Artificial Intelligence for Program Analysis ([FSE'24](https://aashishyadavally.github.io/assets/pdf/pub-fse2024.pdf), [OOPSLA'24](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2024.pdf), [ESEC/FSE'23](https://aashishyadavally.github.io/assets/pdf/pub-esecfse2023-(1).pdf), [ICSE'23](https://aashishyadavally.github.io/assets/pdf/pub-icse2023-(1).pdf))
-* Artificial Intelligence for Software Security ([ICSE'24](), [ESEC/FSE'23](https://aashishyadavally.github.io/assets/pdf/pub-esecfse2023-(2).pdf), [ICSE'23](https://aashishyadavally.github.io/assets/pdf/pub-icse2023-(2).pdf))
-* Source Code Manipulation for Software Engineering Applications ([ASE'22](https://aashishyadavally.github.io/assets/pdf/pub-ase2022-(1).pdf), [ASE'22-NIER](https://aashishyadavally.github.io/assets/pdf/pub-ase2022-(2).pdf), [SANER'22](https://aashishyadavally.github.io/assets/pdf/pub-saner2022.pdf))
+**[Research Interests]** My research lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). I explore if/how large language models understand and reason about program behaviors. I am particularly interested in quantifying such understanding capabilities, and training the next-generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024, the **IEEE TCSE Distinguished Paper Award** at SANER 2022, and a nomination at ICSE 2023. 
 
-Throughout my academic journey, I have been fortunate to work under the guidance of/with wonderful people and researchers in: 
+Throughout my academic journey, I have been fortunate to learn from and collaborate with wonderful mentors and researchers in: 
 <br/> &nbsp; [Dr. David Shaohua Wang](https://davidshaohuawang.wordpress.com/) is an Assistant Professor in the Department of Informatics, New Jersey Institute of Technology.
 <br/> &nbsp; [Dr. Frederick Maier](https://csci.franklin.uga.edu/directory/people/fred-maier) is the Associate Director of the Institute for Artificial Intelligence, University of Georgia.
 <br/> &nbsp; [Dr. Hemant Patil](https://sites.google.com/site/hemantpatildaiict/) heads the Speech Research Lab, and is a Professor at the Dhirubhai Ambani Institute for Information and Communication Technology (DA-IICT).
