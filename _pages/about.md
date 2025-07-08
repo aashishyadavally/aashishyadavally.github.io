@@ -20,20 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**[Bio]** I will be joining the [University of Central Florida](https://csrankings.org/#/index?soft&us) as a tenure-track Assistant Professor starting Fall 2025.
+**[Bio]** I will be joining the [University of Central Florida](https://csrankings.org/#/index?soft&us) as a tenure-track Assistant Professor starting Fall 2025. I recently completed my Ph.D. in Computer Science at the University of Texas at Dallas, advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html).
 
-I recently completed my Ph.D. in Computer Science at the University of Texas at Dallas, advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html).
+**[Prospective Students]** I am actively looking for brilliant students with a strong foundation and interest in programming languages, compilers, software engineering, and/or AI to join my research group, **SAIL@UCF** (**S**oftware Engineering and **A**rtificial **I**ntelligence Research **L**ab, webpage coming shortly). Feel free to reach out with a copy of your CV and background, via email: aashish [dot] yadavally [at] ucf [dot] edu
 
-**[Prospective Students]** I am actively looking for brilliant students with a strong foundation and interest in programming languages, compilers, software engineering, and/or AI to join my research group: SAIL@UCF (**S**oftware Engineering and **A**rtificial **I**ntelligence Research **L**ab, webpage coming shortly).
-
-Feel free to reach out with a copy of your CV and background, via email: aashish [dot] yadavally [at] ucf [dot] edu
-
-**[Research Interests]** My research lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). I explore if/how large language models understand and reason about program behaviors. I am particularly interested in quantifying such understanding capabilities, and training the next-generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the **ACM SIGSOFT Distinguished Paper Award** at FSE 2024, the **IEEE TCSE Distinguished Paper Award** at SANER 2022, and a nomination at ICSE 2023. 
-
-Throughout my academic journey, I have been fortunate to learn from and collaborate with wonderful mentors and researchers in: 
-<br/> &nbsp; [Dr. David Shaohua Wang](https://davidshaohuawang.wordpress.com/) is an Assistant Professor in the Department of Informatics, New Jersey Institute of Technology.
-<br/> &nbsp; [Dr. Frederick Maier](https://csci.franklin.uga.edu/directory/people/fred-maier) is the Associate Director of the Institute for Artificial Intelligence, University of Georgia.
-<br/> &nbsp; [Dr. Hemant Patil](https://sites.google.com/site/hemantpatildaiict/) heads the Speech Research Lab, and is a Professor at the Dhirubhai Ambani Institute for Information and Communication Technology (DA-IICT).
+**[Research Interests]** My research lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). I explore if/how large language models understand and reason about program behaviors. Most recently, I am interested in quantifying such understanding capabilities, and training the next-generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the *ACM SIGSOFT Distinguished Paper Award* at FSE 2024, the *IEEE TCSE Distinguished Paper Award* at SANER 2022, and a nomination at ICSE 2023. 
 
 **You can find me at the following Conferences or Events**
 <br/> &nbsp; 2024 &nbsp; OOPSLA (Pasadena, CA, USA), FSE (Porto de Galinhas, Brazil)
