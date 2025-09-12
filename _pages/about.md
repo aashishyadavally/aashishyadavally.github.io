@@ -20,11 +20,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Bio:** &nbsp; I am an Assistant Professor at the [University of Central Florida](https://csrankings.org/#/index?soft&us). I recently completed my Ph.D. in Computer Science at the University of Texas at Dallas, advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html).
+**Bio:** &nbsp; I am an Assistant Professor in Computer Science at the [University of Central Florida](https://www.cs.ucf.edu).
 
-**Prospective Students:** &nbsp; I am actively looking for brilliant students with a strong foundation and interest in programming languages, compilers, software engineering, and/or AI to join my research group, **SAIL@UCF** (**S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab, webpage coming shortly). Feel free to reach out with a copy of your CV and background, via email: aashish [dot] yadavally [at] ucf [dot] edu
+I recently earned my Ph.D. in Computer Science from the University of Texas at Dallas, where I was advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html). My research (very) broadly lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). In particular, I explore if/how large language models understand and reason about program behaviors. More recently, I am interested in quantifying such understanding capabilities, and training the next generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the *ACM SIGSOFT Distinguished Paper Award* at FSE 2024 and the *IEEE TCSE Distinguished Paper Award* at SANER 2022.
 
-**Research Interests:** &nbsp; My research lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). I explore if/how large language models understand and reason about program behaviors. Most recently, I am interested in quantifying such understanding capabilities, and training the next-generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the *ACM SIGSOFT Distinguished Paper Award* at FSE 2024, the *IEEE TCSE Distinguished Paper Award* at SANER 2022, and a nomination at ICSE 2023. 
+**Prospective Students:** &nbsp; I am actively looking for brilliant students with a strong foundation and interest in programming languages, compilers, software engineering, and/or AI to join my research group, **SAIL@UCF** (**S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab, webpage coming shortly). We are ranked **[#15 in Software Engineering](https://csrankings.org/#/index?soft&us)** on CSRankings (a metrics-based ranking of top computer science institutions). Feel free to reach out with a copy of your CV and background, via email: aashish [dot] yadavally [at] ucf [dot] edu
+
+**(TL;DR) Research Interests:** &nbsp; AI for Software Engineering, Software Security, Software Maintenance, Large Reasoning Models for Source Code 
 
 **You can find me at the following Conferences or Events**
 <br/> &nbsp; 2024 &nbsp; OOPSLA (Pasadena, CA, USA), FSE (Porto de Galinhas, Brazil)
