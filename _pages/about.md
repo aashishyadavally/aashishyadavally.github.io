@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>  ECSS 4.417</p>
-    <p>  The University of Texas at Dallas</p>
-    <p>  Richardson, TX 75082</p>
+    <p>  Harris Engineering Center (HEC)</p>
+    <p>  Room 247</p>
+    <p>  4328 Scorpius St, Orlando, FL 32828</p>
     <p>  </p>
 
 news: true  # includes a list of news items
