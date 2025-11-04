@@ -8,8 +8,6 @@ nav: true
 nav_order: 5
 ---
 
-# Honors & Awards
-
 #### Paper Awards
 * **ACM SIGSOFT Distinguished Paper Award** at the 31st ACM International Conference on the Foundations of Software Engineering (FSE 2024)
 * Nomination for the **ACM SIGSOFT Distinguished Paper Award** at the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023)
