@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='https://aashishyadavally.github.io/cv/#education'>Affiliations</a>. <a href='https://aashishyadavally.github.io/cv/#research-interests'>Research</a>. <a href='https://aashishyadavally.github.io/cv/#academic-service'>Academic Service</a>. <a href='#'>Contacts</a>.
 
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Bio:** &nbsp; I am an Assistant Professor in Computer Science at the [University of Central Florida](https://www.cs.ucf.edu).
+**Bio:** &nbsp; I am a tenure-track Assistant Professor in the CS Department at the [University of Central Florida](https://www.cs.ucf.edu).
 
 I recently earned my Ph.D. in Computer Science from the University of Texas at Dallas, where I was advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html). My research broadly lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). In particular, I explore if/how large language models understand and reason about program behaviors. More recently, I am interested in quantifying such understanding capabilities, and training the next generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the *ACM SIGSOFT Distinguished Paper Award* and the *IEEE TCSE Distinguished Paper Award*.
 
