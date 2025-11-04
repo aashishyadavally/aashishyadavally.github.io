@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
-description: listed in reversed chronological order.
-nav: true
-nav_order: 3
+title: Talks
+description: arranged in reverse chronological order.
+nav: false
+nav_order:
 ---
 
 ### Invited Talks
