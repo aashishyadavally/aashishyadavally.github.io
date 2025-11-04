@@ -1,12 +1,14 @@
 ---
 layout: page
 permalink: /awards/
-title: Honors & Awards
+title: Awards
 nav_title: Awards
 description: 
 nav: true
 nav_order: 5
 ---
+
+# Honors & Awards
 
 #### Paper Awards
 * **ACM SIGSOFT Distinguished Paper Award** at the 31st ACM International Conference on the Foundations of Software Engineering (FSE 2024)
