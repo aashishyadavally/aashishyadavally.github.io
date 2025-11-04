@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: "…"
 nav: true
 nav_order: 5
 dropdown: true
@@ -8,11 +8,6 @@ children:
     - title: Publications
       permalink: /research/#publications
     - title: divider
-    - title: Talks
-      permalink: /talks/
-    - title: CV
+    - title: <b>CV</b>
       permalink: https://aashishyadavally.github.io/assets/pdf/cv.pdf
-    # - title: divider
-    # - title: projects
-    #   permalink: /projects/
 ---
