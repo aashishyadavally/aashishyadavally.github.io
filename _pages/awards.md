@@ -2,6 +2,7 @@
 layout: page
 permalink: /awards/
 title: Honors & Awards
+nav_title: Awards
 description: 
 nav: true
 nav_order: 5
