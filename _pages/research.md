@@ -34,7 +34,7 @@ nav_order: 1
 
 2. **[[FSE'24]]** **Aashish Yadavally**, Yi Li, Tien N. Nguyen. "*Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning*". In 33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. ACM Press 2024. <br>
 <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:90%;">
-🏆 **ACM SIGSOFT Distinguished Paper Award**
+🏆 <strong>ACM SIGSOFT Distinguished Paper Award</strong>
 </span>
 
 3. **[[FORGE'24]]** Hridya Dhulipala, **Aashish Yadavally**, Tien N. Nguyen. "*Planning to Guide LLM for Code Coverage Prediction*". 2024 IEEE/ACM First International Conference on AI Foundation Models and Software Engineering. ACM Press 2024.
@@ -52,7 +52,7 @@ nav_order: 1
 
 2. **[[ICSE'23]]**  **Aashish Yadavally**, Tien N. Nguyen, Wenbo Wang, Shaohua Wang. "*(Partial) Program Dependence Learning*". In Proceedings of the IEEE/ACM 45th International Conference on Software Engineering. IEEE CS Press 2023. <br>
 <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:90%;">
-🏆 Nomination for **ACM SIGSOFT Distinguished Paper Award**
+🏆 Nomination for <strong>ACM SIGSOFT Distinguished Paper Award</strong>
 </span>
 
 3. **[[ESEC/FSE'23]]**  Yi Li, **Aashish Yadavally**, Jiaxing Zhang, Shaohua Wang, Tien N. Nguyen. "*DeMinify: Neural Variable Name Recovery and Type Inference*". In 32nd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. ACM Press 2023.
@@ -68,7 +68,7 @@ nav_order: 1
 
 3. **[[SANER'22]]**  Thanh V. Nguyen, **Aashish Yadavally**, Tien N. Nguyen. "*Phrase2Set: Phrase-to-Set Machine Translation and Its Software Engineering Applications*". In Proceedings 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering. IEEE CS Press 2022. <br>
 <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:90%;">
-🏆 **IEEE TCSE Distinguished Paper Award**
+🏆 <strong>IEEE TCSE Distinguished Paper Award</strong>
 </span>
 
 [ICSE'26]: https://conf.researchr.org/track/icse-2026/icse-2026-research-track
