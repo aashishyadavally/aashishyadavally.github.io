@@ -7,9 +7,10 @@ dropdown: true
 children:
     - title: Publications
       permalink: /research/#publications
-    - title: divider
     - title: Talks
-      permalink: /research/#talks
+      permalink: /talks
+    - title: All News
+      permalink: /news
     - title: divider
     - title: <b>CV</b>
       permalink: https://aashishyadavally.github.io/assets/pdf/cv.pdf
