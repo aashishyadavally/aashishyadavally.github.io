@@ -4,7 +4,7 @@ permalink: /service/
 title: Service
 description: 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 #### Leadership and Academic Service
@@ -34,7 +34,7 @@ nav_order: 4
 * **[TSE]** IEEE Transactions on Software Engineering, Reviewer
 * **[EMSE]** Empirical Software Engineering, Reviewer
 
-#### Service at University of Central Florida
+#### Service at the University of Central Florida
 * 10/2025 - Panelist, "*AI, Human Touch, and Future of Work*"
   - Rosen College of Hospitality Management
 * 10/2025 - Committee Member, *2025-2026 Faculty Excellence Awards*
