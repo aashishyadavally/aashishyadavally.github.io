@@ -6,6 +6,9 @@ nav: true
 nav_order: 1
 ---
 
+### Publications
+(arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>[here]</a> for full list.)
+
 #### 2026
 
 1. **[[ICSE'26]]** Xiaokai Rong<sup>†</sup>, **Aashish Yadavally**<sup>†</sup>, Tien N. Nguyen. "*Large Language Model-Aided Partial Program Dependence Analysis*". In 48th IEEE/ACM International Conference on Software Engineering. ACM Press 2026.  
