@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://aashishyadavally.github.io/cv/#education'>Affiliations</a>. <a href='https://aashishyadavally.github.io/cv/#research-interests'>Research</a>. <a href='https://aashishyadavally.github.io/cv/#academic-service'>Academic Service</a>. <a href='#'>Contacts</a>.
+# subtitle: <a href='https://aashishyadavally.github.io/cv/#education'>Affiliations</a>. <a href='https://aashishyadavally.github.io/cv/#research-interests'>Research</a>. <a href='https://aashishyadavally.github.io/cv/#academic-service'>Academic Service</a>. <a href='#'>Contacts</a>.
 
 profile:
   align: right
