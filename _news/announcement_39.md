@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two papers accepted at ICSE 2026.
-date: 2026-10-15 00:00:00
+date: 2025-10-15 00:00:00
 inline: false
 related_posts: false
 ---
