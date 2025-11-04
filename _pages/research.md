@@ -33,7 +33,7 @@ nav_order: 1
 1. **[[OOPSLA'24]]** **Aashish Yadavally**, Yi Li, Shaohua Wang, Tien N. Nguyen. "*A Learning-Based Approach to Static Program Slicing*". In Proceedings of the ACM on Programming Languages. ACM Press 2024.
 
 2. **[[FSE'24]]** **Aashish Yadavally**, Yi Li, Tien N. Nguyen. "*Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning*". In 33rd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering. ACM Press 2024. <br>
-<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;">
 🏆 <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong>
 </span>
 
@@ -51,7 +51,7 @@ nav_order: 1
 1. **[[ICSE'23]]**  Wenbo Wang, Tien N. Nguyen, Shaohua Wang, Yi Li, Jiyuan Zhang, **Aashish Yadavally**. "*DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection*". In Proceedings of the IEEE/ACM 45th International Conference on Software Engineering. IEEE CS Press 2023.
 
 2. **[[ICSE'23]]**  **Aashish Yadavally**, Tien N. Nguyen, Wenbo Wang, Shaohua Wang. "*(Partial) Program Dependence Learning*". In Proceedings of the IEEE/ACM 45th International Conference on Software Engineering. IEEE CS Press 2023. <br>
-<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;">
 🏆 Nomination for <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong>
 </span>
 
@@ -67,7 +67,7 @@ nav_order: 1
 2. **[[ASE'22-NIER]]** 	Anh Tuan Nguyen, **Aashish Yadavally**, Tien N. Nguyen. "*Next Syntactic-Unit Code Completion and Applications*". In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering: Companion Proceedings. ACM Press 2022.
 
 3. **[[SANER'22]]**  Thanh V. Nguyen, **Aashish Yadavally**, Tien N. Nguyen. "*Phrase2Set: Phrase-to-Set Machine Translation and Its Software Engineering Applications*". In Proceedings 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering. IEEE CS Press 2022. <br>
-<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:90%;">
+<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;">
 🏆 <strong style="color:#b30000;">IEEE TCSE Distinguished Paper Award</strong>
 </span>
 
