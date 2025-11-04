@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 ### Publications
-(arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>[here]</a> for full list.)
+(arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>[here]</a> for full list)
 
 #### 2026
 
