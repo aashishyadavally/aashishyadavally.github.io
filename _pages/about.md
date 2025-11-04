@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>  Harris Engineering Center (HEC)</p>
-    <p>  Room 247</p>
-    <p>  4328 Scorpius St, Orlando, FL 32828</p>
+    <p>  Office: HEC 247C</p>
+    <p>  4328 Scorpius St</p>
+    <p>  Orlando, FL 32828</p>
     <p>  </p>
 
 news: true  # includes a list of news items
