@@ -9,7 +9,7 @@ nav_order: 1
 ### Publications
 (arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>Google Scholar</a> for full list)
 
-#### 2026
+#### 2026 <span style="float:right;"(2x ICSE)</span>
 
 1. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(1).pdf)]** **Large Language Model-Aided Partial Program Dependence Analysis**
    - **Aashish Yadavally**<sup>†</sup>, Xiaokai Rong<sup>†</sup>, Tien N. Nguyen (†: joint first authors)
@@ -20,7 +20,7 @@ nav_order: 1
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
 
 ---
-#### 2025
+#### 2025 <span style="float:right;"(2x ICSE, 2x FSE)</span>
 
 1. **[[FSE'25](https://aashishyadavally.github.io/assets/pdf/pub-fse2025-(1).pdf)]** **CRISPE: Semantic-Guided Execution Planning and Dynamic Reasoning for Enhancing Code Coverage Prediction**
    - Hridya Dhulipala, **Aashish Yadavally**, Smit Patel, Tien N. Nguyen
@@ -43,7 +43,7 @@ nav_order: 1
    - Acceptance Rate: 21.3% (245 out of 1150 papers accepted)
 
 ---
-#### 2024
+#### 2024 <span style="float:right;"(3x ICSE, 1x FSE, 1x OOPSLA, 1x FORGE)</span>
 
 1. **[[OOPSLA'24](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2024.pdf)]** **A Learning-Based Approach to Static Program Slicing**
    - **Aashish Yadavally**, Yi Li, Shaohua Wang, Tien N. Nguyen
@@ -75,7 +75,7 @@ nav_order: 1
    - Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings, Lisbon, Portugal, April 14-20, 2024
 
 ---
-#### 2023
+#### 2023 <span style="float:right;"(2x ICSE, 2x FSE)</span>
 
 1. **[[ICSE'23](https://aashishyadavally.github.io/assets/pdf/pub-icse2023-(2).pdf)]** **DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection**
    - Wenbo Wang, Tien N. Nguyen, Shaohua Wang, Yi Li, Jiyuan Zhang, **Aashish Yadavally**
@@ -99,7 +99,7 @@ nav_order: 1
    - Acceptance Rate: 27.0% (127 out of 470 papers accepted)
 
 ---
-#### 2022
+#### 2022 <span style="float:right;"(2x ASE, 1x SANER)</span>
 
 1. **[[ASE'22](https://aashishyadavally.github.io/assets/pdf/pub-ase2022-(1).pdf)]** **A Hybrid Approach for Inference between Behavioral Exception API Documentation and Implementations, and Its Applications**
    - Hoan Anh Nguyen, Hung Dang Phan, Syeda Khairunnesa Samantha, Son Nguyen, **Aashish Yadavally**, Shaohua Wang, Hridesh Rajan, Tien N. Nguyen
