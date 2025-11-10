@@ -9,8 +9,8 @@ nav_order: 1
 ### Publications
 (arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>Google Scholar</a> for full list)
 
-<div style="display:flex; justify-content:space-between; font-size:1.25em; font-weight:bold;">
-  <span>2026</span>
+<div style="display:flex; justify-content:space-between; font-size:1.25em;">
+  <span style="font-weight:bold; font-size:1.25em;">2026</span>
   <span>(2x ICSE)</span>
 </div>
 
@@ -23,8 +23,8 @@ nav_order: 1
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
 
 ---
-<div style="display:flex; justify-content:space-between; font-size:1.25em; font-weight:bold;">
-  <span>2025</span>
+<div style="display:flex; justify-content:space-between; font-size:1.25em;">
+  <span style="font-weight:bold; font-size:1.25em;">2025</span>
   <span>(2x ICSE, 2x FSE)</span>
 </div>
 
@@ -49,8 +49,8 @@ nav_order: 1
    - Acceptance Rate: 21.3% (245 out of 1150 papers accepted)
 
 ---
-<div style="display:flex; justify-content:space-between; font-size:1.25em; font-weight:bold;">
-  <span>2024</span>
+<div style="display:flex; justify-content:space-between; font-size:1.25em;">
+  <span style="font-weight:bold; font-size:1.25em;">2024</span>
   <span>(3x ICSE, 1x FSE, 1x OOPSLA, 1x FORGE)</span>
 </div>
 
@@ -84,8 +84,8 @@ nav_order: 1
    - Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering: Companion Proceedings, Lisbon, Portugal, April 14-20, 2024
 
 ---
-<div style="display:flex; justify-content:space-between; font-size:1.25em; font-weight:bold;">
-  <span>2023</span>
+<div style="display:flex; justify-content:space-between; font-size:1.25em;">
+  <span style="font-weight:bold; font-size:1.25em;">2023</span>
   <span>(2x ICSE, 2x ESEC/FSE)</span>
 </div>
 
@@ -111,8 +111,8 @@ nav_order: 1
    - Acceptance Rate: 27.0% (127 out of 470 papers accepted)
 
 ---
-<div style="display:flex; justify-content:space-between; font-size:1.25em; font-weight:bold;">
-  <span>2022</span>
+<div style="display:flex; justify-content:space-between; font-size:1.25em;">
+  <span style="font-weight:bold; font-size:1.25em;">2022</span>
   <span>(2x ASE, 1x SANER)</span>
 </div>
 
