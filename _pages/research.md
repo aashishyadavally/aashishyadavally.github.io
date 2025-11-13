@@ -17,11 +17,13 @@ nav_order: 1
 1. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(1).pdf)]** **Large Language Model-Aided Partial Program Dependence Analysis**
    - <span style="text-decoration: underline;">Aashish Yadavally</span><sup>†</sup>, Xiaokai Rong<sup>†</sup>, Tien N. Nguyen (†: joint first authors)
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
-  
+   - Acceptance Rate: 24.2% (Cycle 1: 160 out of 660 papers accepted)
+
   
 2. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(2).pdf)]** **From Seed to Scope: Reasoning to Identify Change Impact Sets**
    - <span style="text-decoration: underline;">Aashish Yadavally</span>, Tien N. Nguyen
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
+   - Acceptance Rate: 24.2% (Cycle 1: 160 out of 660 papers accepted)
 
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
