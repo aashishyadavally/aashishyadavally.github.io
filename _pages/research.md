@@ -11,7 +11,7 @@ nav_order: 1
 
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2026</span>
-  <span>(2x ICSE)</span>
+  <span>(2x ICSE, 1x OOPSLA)</span>
 </div>  
 
 1. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(1).pdf)]** **Large Language Model-Aided Partial Program Dependence Analysis**
