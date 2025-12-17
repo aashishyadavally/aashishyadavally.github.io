@@ -25,6 +25,10 @@ nav_order: 1
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
    - Acceptance Rate: 21.9% (321 out of 1469 papers accepted)
 
+3. **[[OOPSLA'26]()]** **T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics** (*Major Revision*)
+   - Yan Wang, Ling Ding, Jiechen Sun, Tien N. Nguyen, Shaohua Wang, <span style="text-decoration: underline;">Aashish Yadavally</span>, Xin Xia, Yanan Zheng
+   - Proceedings of the ACM on Programming Languages (PACMPL), Vol. 10, ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026), Oakland, California, USA, October 3–9, 2026
+
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2025</span>
