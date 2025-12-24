@@ -15,6 +15,7 @@ nav_order: 3
   - 2025: Reviewer, *Research Track*
 * **[FORGE]** International Conference on AI Foundation Models and Software Engineering
   - 2026: Program Committee, *Research Track*
+  - 2026: Program Committee, *Data & Benchmarking Track*
 * **[EASE]** International Conference on Evaluation and Assessment in Software Engineering
   - 2026: Program Committee, *AI Models/Data Track*
   - 2025: Program Committee, *AI Models/Data Track*
