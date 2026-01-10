@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>  Office: HEC 247C</p>
+    <p>  Office: HEC 220</p>
     <p>  4328 Scorpius St</p>
     <p>  Orlando, FL 32828</p>
     <p>  </p>
@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Bio:** &nbsp; I am a tenure-track Assistant Professor in the CS Department at the [University of Central Florida](https://www.cs.ucf.edu).
 
-I recently earned my Ph.D. in Computer Science from the University of Texas at Dallas, where I was advised by [Prof. Tien N. Nguyen](https://personal.utdallas.edu/~tien.n.nguyen/research.html). My research broadly lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). In particular, I explore if/how large language models understand and reason about program behaviors. More recently, I am interested in quantifying such understanding capabilities, and training the next generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the *ACM SIGSOFT Distinguished Paper Award* and the *IEEE TCSE Distinguished Paper Award*.
+My research broadly lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). In particular, I explore if/how large language models understand and reason about program behaviors. More recently, I am interested in quantifying such understanding capabilities, and training the next generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple accolades, including the *ACM SIGSOFT Distinguished Paper Award* and the *IEEE TCSE Distinguished Paper Award*.
 
 <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"><strong style="color:#b30000;">We are hiring!</strong></span> &nbsp; I am actively looking for brilliant students with a strong foundation and interest in programming languages, software engineering, and/or AI to join our research group, **[SAIL@UCF](https://aashishyadavally.github.io/sail/)** (**S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab). We are ranked **[#15 in Software Engineering](https://csrankings.org/#/index?soft&us)** in the United States on CSRankings (a metrics-based ranking of top CS institutions).
 
