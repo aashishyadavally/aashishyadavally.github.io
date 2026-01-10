@@ -21,11 +21,13 @@
               {{- site.title -}}
             {%- endif -%}
           </a> -->
-          {% if site.navbar.logo %}
-            <img src="{{ site.navbar.logo | relative_url }}"
-              alt="{{ site.title | default: site.first_name }}"
-              style="height:38px;width:auto;margin-right:10px;">
-          {% endif %}
+          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            {% if site.navbar.logo %}
+              <img src="{{ site.navbar.logo | relative_url }}"
+                alt="{{ site.title | default: site.first_name }}"
+                style="height:38px;width:auto;margin-right:10px;">
+            {% endif %}
+          </a>
           <!-- {%- elsif site.enable_navbar_social -%} -->
           {%- if site.enable_navbar_social -%}
             <!-- Social Icons -->
