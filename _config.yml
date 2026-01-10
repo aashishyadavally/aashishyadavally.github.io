@@ -50,6 +50,10 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: true
 
+# Add logo in navigation bar
+navbar:
+  logo: "/assets/img/logo.png"
+
 # Dimensions
 max_width: 800px
 
