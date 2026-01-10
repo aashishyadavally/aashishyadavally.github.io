@@ -52,7 +52,7 @@ footer_fixed: true
 
 # Add logo in navigation bar
 navbar:
-  logo: "/assets/img/logo.png"
+  logo: "/assets/img/logo-horizontal.png"
 
 # Dimensions
 max_width: 800px
