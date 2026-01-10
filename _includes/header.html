@@ -12,8 +12,8 @@
                 style="height:38px;width:auto;margin-right:10px;">
             {% endif %}
           </a>
-          {%- elsif site.enable_navbar_social -%}
-          <!-- {%- if site.enable_navbar_social -%} -->
+          {% endif %}
+          {%- if site.enable_navbar_social -%}
             <!-- Social Icons -->
           <div class="navbar-brand social">
             {% include social.html %}
