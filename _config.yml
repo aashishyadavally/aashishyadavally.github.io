@@ -332,6 +332,10 @@ external_links:
   target: _blank
   exclude:
 
+# Add custom CSS to make logo visible on homepage
+custom_css:
+  - assets/css/custom.css
+
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
