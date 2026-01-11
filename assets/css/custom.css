@@ -1,0 +1,4 @@
+/* Fix fixed-top navbar overlap on home/about page */
+body:not(.fixed-top-nav) {
+  padding-top: 56px;
+}
