@@ -10,6 +10,8 @@ nav_order: 3
 #### Leadership and Academic Service
 * **[ISSTA]** International Symposium on Software Testing and Analysis
   - 2026: Program Committee, *Technical Track*
+* **[FSE]** International Conference on the Foundations of Software Engineering
+  - 2026: Program Committee, *Ideas, Vision and Reflections Tack*
 * **[ICLR]** International Conference on Learning Representation
   - 2026: Reviewer, *Research Track*
   - 2025: Reviewer, *Research Track*
