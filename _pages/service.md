@@ -8,6 +8,10 @@ nav_order: 3
 ---
 
 #### Leadership and Academic Service
+* **[ICSE]** International Conference on Software Engineering
+  - 2027: Program Committee, *Research Track*
+  - 2025: Shadow Program Committee, *Technical Track*
+  - 2024: Program Committee, *Artifact Evaluation Track*
 * **[ISSTA]** International Symposium on Software Testing and Analysis
   - 2026: Program Committee, *Technical Track*
 * **[FSE]** International Conference on the Foundations of Software Engineering
