@@ -25,9 +25,6 @@ nav_order: 3
 * **[EASE]** International Conference on Evaluation and Assessment in Software Engineering
   - 2026: Program Committee, *AI Models/Data Track*
   - 2025: Program Committee, *AI Models/Data Track*
-* **[ICSE]** International Conference on Software Engineering
-  - 2025: Shadow Program Committee, *Technical Track*
-  - 2024: Program Committee, *Artifact Evaluation Track*
 * **[ICSME]** International Conference on Software Maintenance and Evolution
   - 2025: Program Committee, *Artifact Evaluation Track*
 * **[DL4C@NeurIPS]** Deep Learning Workskop for Code at NeurIPS
