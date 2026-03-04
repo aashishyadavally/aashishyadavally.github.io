@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: Received the *Best Doctoral Dissertation Award* at the University of Texas at Dallas!
+:trophy: Received the *Best Doctoral Dissertation Award* at UTD (2025)!
