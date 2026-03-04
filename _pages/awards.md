@@ -14,6 +14,7 @@ nav_order: 4
 * **IEEE TCSE Distinguished Paper Award** at the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022)
 
 #### Recognition
+* **2025 Best Doctoral Dissertation Award**, University of Texas at Dallas
 * **Distinguished Reviewer Award** at the 21st International Conference on Mining Software Repositories, Junior PC Track
 * **First Prize**, Project Dazzle, AI Camp Hackathon
 * {2018-2019 and 2019-2020}: **Research Scholarship** including a full tuition remission, from the *Institute for Artificial Intelligence* at the University of Georgia (one of three chosen M.S. students)
