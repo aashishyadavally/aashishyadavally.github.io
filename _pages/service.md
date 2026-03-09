@@ -19,6 +19,8 @@ nav_order: 3
 * **[ICLR]** International Conference on Learning Representation
   - 2026: Reviewer, *Research Track*
   - 2025: Reviewer, *Research Track*
+* **[CAIS]** International Conference on AI and Agentic Systems
+  - 2026: Program Committee, *Research Papers Track*
 * **[FORGE]** International Conference on AI Foundation Models and Software Engineering
   - 2026: Program Committee, *Research Track*
   - 2026: Program Committee, *Data & Benchmarking Track*
