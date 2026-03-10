@@ -30,6 +30,8 @@ Feel free to reach out with a copy of your CV and background: *aashish [dot] yad
 
 **Research Interests (TL;DR):** &nbsp; AI for Software Engineering, Software Security, Software Maintenance, Large Reasoning Models for Source Code 
 
+**Education:** &nbsp; I earned my Ph.D. from the [University of Texas at Dallas](https://cs.utdallas.edu) in 2025 under the guidance of [Dr. Tien N. Nguyen](https://personal.utdallas.edu/%7Etien.n.nguyen/). My work received the *Best Doctoral Dissertation Award* in the Erik Jonsson School of Engineering and Computer Science for that year.
+
 **You can find me at the following Conferences or Events**
 <br/> &nbsp; 2024 &nbsp; OOPSLA (Pasadena, CA, USA), FSE (Porto de Galinhas, Brazil)
 <br/> &nbsp; 2023 &nbsp; ESEC/FSE (San Francisco, CA, USA), ICSE (Melbourne, Australia)
