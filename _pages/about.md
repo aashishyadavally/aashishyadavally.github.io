@@ -24,13 +24,13 @@ social: true  # includes social icons at the bottom of the page
 
 My research broadly lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). In particular, I explore if/how large language models understand and reason about program behaviors. More recently, I am interested in quantifying such understanding capabilities, and training the next generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple [Distinguished Paper Awards](https://aashishyadavally.github.io/research/) at top SE conferences.
 
-<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"><strong style="color:#b30000;">We are hiring!</strong></span> &nbsp; I am actively looking for brilliant students with a strong foundation and interest in programming languages, software engineering, and/or AI to join our research group, **[SAIL@UCF](https://aashishyadavally.github.io/sail/)** (**S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab). We are ranked **[#15 in Software Engineering](https://csrankings.org/#/index?soft&us)** in the United States on CSRankings (a metrics-based ranking of top CS institutions).
+<span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"><strong style="color:#b30000;">We are hiring!</strong></span> &nbsp; I am actively looking for brilliant students with a strong foundation in programming languages, software engineering, and/or AI to join our research group, **[SAIL@UCF](https://aashishyadavally.github.io/sail/)** (**S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab). We are ranked **[#15 in Software Engineering](https://csrankings.org/#/index?soft&us)** in the United States on CSRankings (a metrics-based ranking of top CS institutions).
 
 Feel free to reach out with a copy of your CV and background: *aashish [dot] yadavally [at] ucf [dot] edu*
 
 **Research Interests (TL;DR):** &nbsp; AI for Software Engineering, Software Security, Software Maintenance, Large Reasoning Models for Source Code 
 
-**Education:** &nbsp; I earned my Ph.D. from the [University of Texas at Dallas](https://cs.utdallas.edu) under the guidance of [Dr. Tien N. Nguyen](https://personal.utdallas.edu/%7Etien.n.nguyen/). My work received the *Best Dissertation Award* in Erik Jonsson School of Engineering and Computer Science.
+**Education:** &nbsp; I earned my Ph.D. from the [University of Texas at Dallas](https://cs.utdallas.edu) under the guidance of [Dr. Tien N. Nguyen](https://personal.utdallas.edu/%7Etien.n.nguyen/). My work received the [Best Dissertation Award](https://aashishyadavally.github.io/awards/) in Erik Jonsson School of Engineering and Computer Science.
 
 **Favourite Quotes**
 - *"The future depends on what we do in the present."* ~ Mohandas Karamchand Gandhi
