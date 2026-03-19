@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: Mr. Showvik Biswas, incoming Ph.D. student at SAIL@UCF, was awarded the *ORCGS Doctoral Fellowship*. Congrats, Showvik!
+:trophy: Showvik Biswas, incoming Ph.D. student at SAIL@UCF, was awarded the *ORCGS Doctoral Fellowship* for 2026. Congrats, Showvik!
