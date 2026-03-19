@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: Mr. Seth Jones, incoming Ph.D. student at SAIL@UCF, was awarded the *ORCGS Doctoral Fellowship*. Congrats, Seth!
+:trophy: Seth Jones, incoming Ph.D. student at SAIL@UCF, was awarded the *ORCGS Doctoral Fellowship* for 2026. Congrats, Seth!
