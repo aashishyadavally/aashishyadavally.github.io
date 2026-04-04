@@ -62,7 +62,7 @@ nav_order: 1
 5. **[[PhD Dissertation](https://aashishyadavally.github.io/assets/pdf/phd-dissertation.pdf)]** **Neural Modeling of Reasoning about Program Behaviors**
    - <span style="text-decoration: underline;">Aashish Yadavally</span>
    - University of Texas at Dallas ProQuest Dissertations & Thes2s
-   -  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">Best Dissertation Award</strong> (only one award at Erik Jonsson School of Engineering and Computer Science) </span>
+   -  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">Best Dissertation Award</strong> <br> (only one award at Erik Jonsson School of Engineering and Computer Science) </span>
 
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
