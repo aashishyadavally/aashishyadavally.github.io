@@ -74,7 +74,7 @@ nav_order: 1
    - <span style="text-decoration: underline;">Aashish Yadavally</span>, Yi Li, Tien N. Nguyen
    - Proceedings of the ACM on Software Engineering (PACMSE), Vol. 1, ACM International Conference on the Foundations of Software Engineering (FSE 2024), Porto de Galinhas, Brazil, July 15-19, 2024
    - Acceptance Rate: 27.3% (132 out of 483 papers accepted)
-   - <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> </span>
+   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> </span>
   
   
 3. **[[FORGE'24](https://aashishyadavally.github.io/assets/pdf/pub-forge2024.pdf)]** **Planning to Guide LLM for Code Coverage Prediction**
@@ -114,7 +114,7 @@ nav_order: 1
    - <span style="text-decoration: underline;">Aashish Yadavally</span>, Tien N. Nguyen, Wenbo Wang, Shaohua Wang
    - Proceedings of the 45th IEEE/ACM International Conference on Software Engineering, Melbourne, Australia, May 14-20, 2023
    - Acceptance Rate: 26.3% (209 out of 796 papers accepted)
-   - <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 Nomination for <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> </span>
+   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 Nomination for <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> </span>
   
   
 3. **[[ESEC/FSE'23](https://aashishyadavally.github.io/assets/pdf/pub-esecfse2023-(1).pdf)]** **DeMinify: Neural Variable Name Recovery and Type Inference**
@@ -149,7 +149,7 @@ nav_order: 1
    - Thanh V. Nguyen, <span style="text-decoration: underline;">Aashish Yadavally</span>, Tien N. Nguyen
    - Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, 15-18 March 2022
    - Acceptance Rate: 36.2% (72 out of 199 papers accepted)
-   - <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆<strong style="color:#b30000;">IEEE TCSE Distinguished Paper Award</strong> </span>
+   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆<strong style="color:#b30000;">IEEE TCSE Distinguished Paper Award</strong> </span>
 
 
 [ICSE'25]: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
