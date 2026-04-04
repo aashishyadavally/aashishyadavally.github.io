@@ -32,7 +32,7 @@ nav_order: 1
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2025</span>
-  <span>(2x ICSE, 2x FSE)</span>
+  <span>(2x ICSE, 2x FSE, PhD Dissertation)</span>
 </div>  
 
 1. **[[FSE'25](https://aashishyadavally.github.io/assets/pdf/pub-fse2025-(1).pdf)]** **CRISPE: Semantic-Guided Execution Planning and Dynamic Reasoning for Enhancing Code Coverage Prediction**
@@ -53,10 +53,16 @@ nav_order: 1
    - Acceptance Rate: 21.3% (245 out of 1150 papers accepted)
   
   
-5. **[[ICSE'25](https://aashishyadavally.github.io/assets/pdf/pub-icse2025-(2).pdf)]** **Large Language Models for Safe Minimization**
+4. **[[ICSE'25](https://aashishyadavally.github.io/assets/pdf/pub-icse2025-(2).pdf)]** **Large Language Models for Safe Minimization**
    - <span style="text-decoration: underline;">Aashish Yadavally</span>, Xiaokai Rong, Phat Nguyen, Tien N. Nguyen
    - Proceedings of the 47th IEEE/ACM International Conference on Software Engineering, Ottawa, Ontario, Canada, April 27-May 3, 2025
    - Acceptance Rate: 21.3% (245 out of 1150 papers accepted)
+
+
+5. **[[PhD Dissertation](https://aashishyadavally.github.io/assets/pdf/phd-dissertation.pdf)]** **Neural Modeling of Reasoning about Program Behaviors**
+   - <span style="text-decoration: underline;">Aashish Yadavally</span>
+   - University of Texas at Dallas ProQuest Dissertations & Thes2s
+   -  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">Best Dissertation Award</strong> (only one award at Erik Jonsson School of Engineering and Computer Science) </span>
 
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
