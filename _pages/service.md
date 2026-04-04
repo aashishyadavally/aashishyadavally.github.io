@@ -33,7 +33,7 @@ nav_order: 3
   - 2025: Reviewer, *Research Track*
 * **[MSR]** International Conference on Mining Software Repositories
   - 2025: Junior Program Committee, *Technical Track* <br>
-  <span style="background-color:#ffdddd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;">
+  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;">
   🏆 <strong style="color:#b30000;">Distinguished Reviewer Award</strong>
   </span>
   - 2024: Junior Program Committee, *Technical Track*
