@@ -10,8 +10,8 @@ nav_order: 1
 (arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>Google Scholar</a> for full list)
 
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
-  <span style="font-weight:bold; font-size:1.25em;">2026**
-  <span>(2x ICSE, 1x ACL)**
+  <span style="font-weight:bold; font-size:1.25em;">2026</span>
+  <span>(2x ICSE, 1x ACL)</span>
 </div>  
 
 1. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reaasoning about Program Execution**
@@ -33,8 +33,8 @@ nav_order: 1
 
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
-  <span style="font-weight:bold; font-size:1.25em;">2025**
-  <span>(2x ICSE, 2x FSE, PhD Dissertation)**
+  <span style="font-weight:bold; font-size:1.25em;">2025</span>
+  <span>(2x ICSE, 2x FSE, PhD Dissertation)</span>
 </div>  
 
 1. **[[FSE'25](https://aashishyadavally.github.io/assets/pdf/pub-fse2025-(1).pdf)]** **CRISPE: Semantic-Guided Execution Planning and Dynamic Reasoning for Enhancing Code Coverage Prediction**
@@ -63,13 +63,13 @@ nav_order: 1
 
 5. **[[PhD Dissertation](https://aashishyadavally.github.io/assets/pdf/phd-dissertation.pdf)]** **Neural Modeling of Reasoning about Program Behaviors**
    - **Aashish Yadavally**
-   - University of Texas at Dallas ProQuest Dissertations & Thes2s
-   -  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">2025 Best Dissertation Award</strong> <br> (only one awardee from the Erik Jonsson School of Engineering and Computer Science) **
+   - University of Texas at Dallas ProQuest Dissertations & Theses
+   -  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">2025 Best Dissertation Award</strong> <br> (only one awardee from the Erik Jonsson School of Engineering and Computer Science)</span>
 
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
-  <span style="font-weight:bold; font-size:1.25em;">2024**
-  <span>(3x ICSE, 1x FSE, 1x OOPSLA, 1x FORGE)**
+  <span style="font-weight:bold; font-size:1.25em;">2024</span>
+  <span>(3x ICSE, 1x FSE, 1x OOPSLA, 1x FORGE)</span>
 </div>  
 
 1. **[[OOPSLA'24](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2024.pdf)]** **A Learning-Based Approach to Static Program Slicing**
@@ -82,7 +82,7 @@ nav_order: 1
    - **Aashish Yadavally**, Yi Li, Tien N. Nguyen
    - Proceedings of the ACM on Software Engineering (PACMSE), Vol. 1, ACM International Conference on the Foundations of Software Engineering (FSE 2024), Porto de Galinhas, Brazil, July 15-19, 2024
    - Acceptance Rate: 27.3% (132 out of 483 papers accepted)
-   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> **
+   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> </span>
   
   
 3. **[[FORGE'24](https://aashishyadavally.github.io/assets/pdf/pub-forge2024.pdf)]** **Planning to Guide LLM for Code Coverage Prediction**
@@ -108,8 +108,8 @@ nav_order: 1
 
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
-  <span style="font-weight:bold; font-size:1.25em;">2023**
-  <span>(2x ICSE, 2x ESEC/FSE)**
+  <span style="font-weight:bold; font-size:1.25em;">2023</span>
+  <span>(2x ICSE, 2x ESEC/FSE)</span>
 </div>  
 
 1. **[[ICSE'23](https://aashishyadavally.github.io/assets/pdf/pub-icse2023-(2).pdf)]** **DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection**
@@ -122,7 +122,7 @@ nav_order: 1
    - **Aashish Yadavally**, Tien N. Nguyen, Wenbo Wang, Shaohua Wang
    - Proceedings of the 45th IEEE/ACM International Conference on Software Engineering, Melbourne, Australia, May 14-20, 2023
    - Acceptance Rate: 26.3% (209 out of 796 papers accepted)
-   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 Nomination for <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> **
+   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆 Nomination for <strong style="color:#b30000;">ACM SIGSOFT Distinguished Paper Award</strong> </span>
   
   
 3. **[[ESEC/FSE'23](https://aashishyadavally.github.io/assets/pdf/pub-esecfse2023-(1).pdf)]** **DeMinify: Neural Variable Name Recovery and Type Inference**
@@ -138,8 +138,8 @@ nav_order: 1
 
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
-  <span style="font-weight:bold; font-size:1.25em;">2022**
-  <span>(2x ASE, 1x SANER)**
+  <span style="font-weight:bold; font-size:1.25em;">2022</span>
+  <span>(2x ASE, 1x SANER)</span>
 </div>  
 
 1. **[[ASE'22](https://aashishyadavally.github.io/assets/pdf/pub-ase2022-(1).pdf)]** **A Hybrid Approach for Inference between Behavioral Exception API Documentation and Implementations, and Its Applications**
@@ -157,7 +157,7 @@ nav_order: 1
    - Thanh V. Nguyen, **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, 15-18 March 2022
    - Acceptance Rate: 36.2% (72 out of 199 papers accepted)
-   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆<strong style="color:#b30000;">IEEE TCSE Distinguished Paper Award</strong> **
+   - <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"> 🏆<strong style="color:#b30000;">IEEE TCSE Distinguished Paper Award</strong> </span>
 
 
 [ICSE'25]: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
