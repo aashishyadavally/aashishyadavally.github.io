@@ -14,7 +14,7 @@ nav_order: 1
   <span>(2x ICSE, 1x ACL)</span>
 </div>  
 
-1. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reaasoning about Program Execution**
+1. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reasoning about Program Execution**
    - <span style="text-decoration: underline;">Eshgin Hasanov</span>, Md. Mahadi Hassan, Santu Karmaker, **Aashish Yadavally**
    - Proceedings of the 64th Annual Meeting of the Association of Computational Linguistics, San Diego, USA, July 2-7, 2026
    - Acceptance Rate: 19.0% (total 12,148 submissions)
