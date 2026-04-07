@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two papers accepted at ICSE 2026.
+title: One paper accepted at ACL 2026.
 date: 2026-04-06 00:00:00
 inline: false
 related_posts: false
