@@ -12,10 +12,11 @@ nav_order: 3
   - 2027: Program Committee, *Research Track*
   - 2025: Shadow Program Committee, *Technical Track*
   - 2024: Program Committee, *Artifact Evaluation Track*
+* **[FSE]** International Conference on the Foundations of Software Engineering
+  - 2027: Program Commitee, *Research Papers Track*
+  - 2026: Program Committee, *Ideas, Vision and Reflections Track*
 * **[ISSTA]** International Symposium on Software Testing and Analysis
   - 2026: Program Committee, *Technical Track*
-* **[FSE]** International Conference on the Foundations of Software Engineering
-  - 2026: Program Committee, *Ideas, Vision and Reflections Tack*
 * **[ICLR]** International Conference on Learning Representation
   - 2026: Reviewer, *Research Track*
   - 2025: Reviewer, *Research Track*
