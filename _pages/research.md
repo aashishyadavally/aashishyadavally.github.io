@@ -11,22 +11,27 @@ nav_order: 1
 
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2026</span>
-  <span>(2x ICSE, 1x ACL)</span>
+  <span>(2x ICSE, 1x ACL, 1x OOPSLA)</span>
 </div>  
 
-1. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reasoning about Program Execution**
+1. **[[OOPSLA'26]](https://2026.splashcon.org/track/oopsla-2026)** **T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics**
+   - Yan Wang, Ling Ding, Jiechen Sun, Tien N. Nguyen, Shaohua Wang, **Aashish Yadavally**, Xin Xia, Yanan Zheng
+   - Proceedings of the ACM on Programming Languages (PACMPL), Vol. 10, ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026), Oakland, California, USA, October 3–9, 2026
+
+   
+2. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reasoning about Program Execution**
    - <span style="text-decoration: underline;">Eshgin Hasanov</span>, Md. Mahadi Hassan, Santu Karmaker, **Aashish Yadavally**
    - Proceedings of the 64th Annual Meeting of the Association of Computational Linguistics, San Diego, USA, July 2-7, 2026
    - Acceptance Rate: 19.0% (total 12,148 submissions)
 
    
-2. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(1).pdf)]** **Large Language Model-Aided Partial Program Dependence Analysis**
+3. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(1).pdf)]** **Large Language Model-Aided Partial Program Dependence Analysis**
    - **Aashish Yadavally**<sup>†</sup>, Xiaokai Rong<sup>†</sup>, Tien N. Nguyen (†: joint first authors)
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
    - Acceptance Rate: 21.9% (321 out of 1469 papers accepted)
 
   
-3. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(2).pdf)]** **From Seed to Scope: Reasoning to Identify Change Impact Sets**
+4. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(2).pdf)]** **From Seed to Scope: Reasoning to Identify Change Impact Sets**
    - **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
    - Acceptance Rate: 21.9% (321 out of 1469 papers accepted)
