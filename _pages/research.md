@@ -14,7 +14,7 @@ nav_order: 1
   <span style="font-size:1em;">(2x ICSE, 1x ACL, 1x OOPSLA, 2x ISSTA)</span>
 </div>  
 
-1. **[[ISSTA'26]](https://conf.researchr.org/home/issta-2026)** **Do Large Language Models Understand Code like Humans**
+1. **[[ISSTA'26]](https://conf.researchr.org/home/issta-2026)** **Do Large Language Models Understand Code like Humans?**
    - Xiaokai Rong, **Aashish Yadavally**, Hridya Dhulipala, Anh H. N. Nguyen, Tien N. Nguyen
    - Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, California, USA, October 3–9, 2026
    - Acceptance Rate: 23.6% (210 out of 888 papers accepted)
