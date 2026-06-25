@@ -20,7 +20,7 @@ nav_order: 1
    - Acceptance Rate: 23.6% (210 out of 888 papers accepted)
 
 
-2. **[[ISSTA'26]](https://conf.researchr.org/home/issta-2026)** **AdaptAgent: A Multi-agent, Domain-Guided Reasoning Framework for Code Adaptation**
+2. **[[ISSTA'26]](https://conf.researchr.org/home/issta-2026)** **AdaptAgent: A Multi-Agent, Domain-Guided Reasoning Framework for Code Adaptation**
    - Xiaokai Rong, Hridya Dhulipala, **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, California, USA, October 3–9, 2026
    - Acceptance Rate: 23.6% (210 out of 888 papers accepted)
