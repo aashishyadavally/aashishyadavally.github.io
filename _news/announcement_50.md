@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two papers accepted at ASE 2026.
+title: One paper accepted at ASE 2026.
 date: 2026-07-28 00:00:00
 inline: false
 related_posts: false
