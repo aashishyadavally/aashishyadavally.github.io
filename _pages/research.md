@@ -14,7 +14,7 @@ nav_order: 1
   <span style="font-size:1em;">(2x ICSE, 1x ACL, 1x OOPSLA, 2x ISSTA, 1x ASE)</span>
 </div>  
 
-1. **[[ASE'26]](https://conf.researchr.org/home/ase-2026)** **On Behavioral Alignment of Model-Code and Human-Code Understandability**
+1. **[[ASE'26]](https://conf.researchr.org/home/ase-2026)** **Post-Hoc Attention Steering of Large Language Models for Robust Code Understanding under Obfuscation**
    - Xiaokai Rong, **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering, Munich, Germany, October 12-16, 2026
 
