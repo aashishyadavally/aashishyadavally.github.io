@@ -17,6 +17,7 @@ nav_order: 1
 1. **[[ASE'26]](https://conf.researchr.org/home/ase-2026)** **Post-Hoc Attention Steering of Large Language Models for Robust Code Understanding under Obfuscation**
    - Xiaokai Rong, **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering, Munich, Germany, October 12-16, 2026
+   - Acceptance Rate: 20.2% (263 out of 1,304 papers accepted)
 
 
 2. **[[ISSTA'26]](https://conf.researchr.org/home/issta-2026)** **On Behavioral Alignment of Model-Code and Human-Code Understandability**
