@@ -5,16 +5,6 @@ permalink: /
 position: Assistant Professor
 affiliation: Department of Computer Science, University of Central Florida
 office: HEC 220 · 4328 Scorpius St · Orlando, FL 32828
-education:
-  - institution: IIIT Vadodara
-    degree: B.Tech. in Computer Science
-    url: https://iiitvadodara.ac.in/
-  - institution: University of Georgia
-    degree: M.S. in Artificial Intelligence
-    url: https://www.uga.edu/
-  - institution: University of Texas at Dallas
-    degree: Ph.D. in Computer Science
-    url: https://www.utdallas.edu/
 # subtitle: <a href='https://aashishyadavally.github.io/cv/#education'>Affiliations</a>. <a href='https://aashishyadavally.github.io/cv/#research-interests'>Research</a>. <a href='https://aashishyadavally.github.io/cv/#academic-service'>Academic Service</a>. <a href='#'>Contacts</a>.
 
 profile:
@@ -35,7 +25,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a tenure-track Assistant Professor in the [Department of Computer Science](https://www.cs.ucf.edu) at the University of Central Florida, where I am also affiliated with the [Cyber Security and Privacy (CyberSP) Faculty Cluster](https://www.ucf.edu/research/cyber-security-privacy/#faculty-listing). I earned my Ph.D. from the [University of Texas at Dallas](https://cs.utdallas.edu) under the supervision of [Dr. Tien N. Nguyen](https://personal.utdallas.edu/%7Etien.n.nguyen/).
 
-My research broadly lies at the intersection of artificial intelligence (AI) and software engineering (SE). In particular, I study whether and how large language models (LLMs) understand and reason about software artifacts and develop reliable methods for quantifying these capabilities. I use these insights to improve LLM-assisted software development processes (LLM4SE), as well as make LLM-enabled software more predictable, controllable, and dependable (SE4LLM).
+My research broadly lies at the intersection of artificial intelligence (AI) and software engineering (SE). In particular, I study whether and how large language models (LLMs) understand and reason about software artifacts and develop methods for reliably quantifying these capabilities. I use these insights to improve LLM-assisted software development processes (LLM4SE), as well as make LLM-enabled software more predictable, controllable, and dependable (SE4LLM).
 
 My work has received multiple [Distinguished Paper Awards](https://aashishyadavally.github.io/research/) at leading SE conferences, and my Ph.D. dissertation received the [Best Dissertation Award](https://aashishyadavally.github.io/awards/) from the Erik Jonsson School of Engineering and Computer Science at UT Dallas!
 
