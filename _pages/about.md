@@ -2,6 +2,9 @@
 layout: about
 title: About
 permalink: /
+position: Assistant Professor
+affiliation: Department of Computer Science, University of Central Florida
+office: HEC 220 · 4328 Scorpius St · Orlando, FL 32828
 # subtitle: <a href='https://aashishyadavally.github.io/cv/#education'>Affiliations</a>. <a href='https://aashishyadavally.github.io/cv/#research-interests'>Research</a>. <a href='https://aashishyadavally.github.io/cv/#academic-service'>Academic Service</a>. <a href='#'>Contacts</a>.
 
 profile:

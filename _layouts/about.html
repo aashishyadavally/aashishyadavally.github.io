@@ -4,39 +4,36 @@ layout: default
 
 <!-- about.html -->
       <div class="post">
-        <header class="post-header">
-          <h1 class="post-title">
-            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
-          <p class="desc">{{ page.subtitle }}</p>
+        <header class="about-hero">
+          <div class="about-hero__content">
+            <h1 class="about-hero__title">
+              {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+            </h1>
+            <p class="about-hero__role"><strong>{{ page.position | default: "Assistant Professor" }}</strong></p>
+            {% if page.affiliation -%}<p class="about-hero__affiliation">{{ page.affiliation }}</p>{%- endif %}
+            {% if page.office -%}
+              <p class="about-hero__office"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> {{ page.office }}</p>
+            {%- endif %}
+            <nav class="about-hero__links" aria-label="Profile links">
+              <a href="https://github.com/{{ site.github_username }}"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a>
+              <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>
+              <a href="{{ site.dblp_url }}"><i class="ai ai-dblp" aria-hidden="true"></i> DBLP</a>
+              <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+              <a href="{{ '/assets/pdf/cv.pdf' | relative_url }}"><i class="fa-solid fa-file-lines" aria-hidden="true"></i> CV</a>
+            </nav>
+          </div>
+
+          {% if page.profile.image -%}
+            {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+            {% include figure.html
+              path=profile_image_path
+              class="about-hero__image"
+              alt="Portrait of Aashish Yadavally"
+              cache_bust=true -%}
+          {%- endif %}
         </header>
 
         <article>
-          {% if page.profile -%}
-          <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
-            {%- if page.profile.image %}
-              {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-
-              {% if page.profile.image_circular %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-              {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-              {% endif %}
-
-              {% include figure.html
-              path=profile_image_path
-              class=profile_image_class
-              alt=page.profile.image
-              cache_bust=true -%}
-            {% endif -%}
-            {%- if page.profile.more_info %}
-            <div class="more-info">
-              {{ page.profile.more_info }}
-            </div>
-            {%- endif %}
-          </div>
-          {%- endif %}
-
           <div class="clearfix">
             {{ content }}
           </div>
