@@ -49,6 +49,14 @@ nav_order: 4
 
 #### Service at the University of Central Florida
 * 10/2025 - Panelist, "*AI, Human Touch, and Future of Work*"
-  - Rosen College of Hospitality Management
+  - Rosen College of Hospitality Management, University of Central Florida
 * 10/2025 - Committee Member, *2025-2026 Faculty Excellence Awards*
-  - Department of Computer Science
+  - Department of Computer Science, University of Central Florida
+
+#### Community Outreach and Engagement
+* 06/2026 - Camp Connect I, "*The Future of Software Engineering: What Happens When AI Can Code?*"
+  - Department of Computer Science, University of Central Florida
+* 10/2025 - 2025 CS Graduate Studies Symposium, *AI in Software Engineering*
+  - Department of Computer Science, University of Central Florida
+* 08/2025 - Alumni Connect, "*The Handbook to Success (TL;DR Mostly Failing, Learning, and Trying Again!)*"
+  - Indian Institute of Information Technology, Vadodara
