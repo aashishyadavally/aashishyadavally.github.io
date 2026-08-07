@@ -15,11 +15,22 @@ nav_order: 4
 * **[FSE]** International Conference on the Foundations of Software Engineering
   - 2027: Program Commitee, *Research Papers Track*
   - 2026: Program Committee, *Ideas, Vision and Reflections Track*
+* **[MSR]** International Conference on Mining Software Repositories
+  - 2027: Program Commitee, *Technical Track*
+  - 2025: Junior Program Committee, *Technical Track* <br>
+  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;">
+  🏆 <strong style="color:#b30000;">Distinguished Reviewer Award</strong>
+  </span>
+  - 2024: Junior Program Committee, *Technical Track*
+* **[ASE]** International Conference on Automated Software Engineering
+  - 2026: Program Committee, *New Ideas and Emerging Results Track*
 * **[ISSTA]** International Symposium on Software Testing and Analysis
   - 2026: Program Committee, *Technical Track*
 * **[ICLR]** International Conference on Learning Representation
   - 2026: Reviewer, *Research Track*
   - 2025: Reviewer, *Research Track*
+* **[NeurIPS]** Annual Conference on Neural Information Processing Systems
+  - 2026: Reviewer, *Research Track*
 * **[CAIS]** International Conference on AI and Agentic Systems
   - 2026: Program Committee, *Research Papers Track*
 * **[FORGE]** International Conference on AI Foundation Models and Software Engineering
@@ -32,13 +43,8 @@ nav_order: 4
   - 2025: Program Committee, *Artifact Evaluation Track*
 * **[DL4C@NeurIPS]** Deep Learning Workskop for Code at NeurIPS
   - 2025: Reviewer, *Research Track*
-* **[MSR]** International Conference on Mining Software Repositories
-  - 2025: Junior Program Committee, *Technical Track* <br>
-  <span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;">
-  🏆 <strong style="color:#b30000;">Distinguished Reviewer Award</strong>
-  </span>
-  - 2024: Junior Program Committee, *Technical Track*
 * **[TSE]** IEEE Transactions on Software Engineering, Reviewer
+* **[TOSEM]** ACM Transactions on Software Engineering and Methodology, Reviewer
 * **[EMSE]** Empirical Software Engineering, Reviewer
 
 #### Service at the University of Central Florida
