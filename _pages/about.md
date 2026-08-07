@@ -5,6 +5,16 @@ permalink: /
 position: Assistant Professor
 affiliation: Department of Computer Science, University of Central Florida
 office: HEC 220 · 4328 Scorpius St · Orlando, FL 32828
+education:
+  - institution: IIIT Vadodara
+    degree: B.Tech. in Computer Science
+    url: https://iiitvadodara.ac.in/
+  - institution: University of Georgia
+    degree: M.S. in Artificial Intelligence
+    url: https://www.uga.edu/
+  - institution: University of Texas at Dallas
+    degree: Ph.D. in Computer Science
+    url: https://www.utdallas.edu/
 # subtitle: <a href='https://aashishyadavally.github.io/cv/#education'>Affiliations</a>. <a href='https://aashishyadavally.github.io/cv/#research-interests'>Research</a>. <a href='https://aashishyadavally.github.io/cv/#academic-service'>Academic Service</a>. <a href='#'>Contacts</a>.
 
 profile:
@@ -20,21 +30,19 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-**Bio:** &nbsp; I am a tenure-track Assistant Professor in the CS Department at the [University of Central Florida](https://www.cs.ucf.edu), where I am also affiliated with the [Cyber Security and Privacy (CyberSP) Faculty Cluster](https://www.ucf.edu/research/cyber-security-privacy/#faculty-listing).
+I am a tenure-track Assistant Professor in the [Department of Computer Science](https://www.cs.ucf.edu) at the University of Central Florida, where I am also affiliated with the [Cyber Security and Privacy (CyberSP) Faculty Cluster](https://www.ucf.edu/research/cyber-security-privacy/#faculty-listing). I earned my Ph.D. from the [University of Texas at Dallas](https://cs.utdallas.edu) under the supervision of [Dr. Tien N. Nguyen](https://personal.utdallas.edu/%7Etien.n.nguyen/).
 
-My research broadly lies at the intersection of Artificial Intelligence (AI) and Software Engineering (SE). In particular, I explore if/how large language models understand and reason about program behaviors. More recently, I am interested in quantifying such understanding capabilities, and training the next generation of code reasoning models to optimize software development processes. My work has been recognized by the community with multiple [Distinguished Paper Awards](https://aashishyadavally.github.io/research/) at top SE conferences.
+My research broadly lies at the intersection of artificial intelligence (AI) and software engineering (SE). In particular, I study whether and how large language models (LLMs) understand and reason about software artifacts and develop reliable methods for quantifying these capabilities. I use these insights to improve LLM-assisted software development processes (LLM4SE), as well as make LLM-enabled software more predictable, controllable, and dependable (SE4LLM).
 
-<span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"><strong style="color:#b30000;">We are hiring!</strong></span> &nbsp; I am actively looking for brilliant students with a strong foundation in programming languages, software engineering, and/or AI to join our research group, **[SAIL@UCF](https://aashishyadavally.github.io/sail/)** (**S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab). We are ranked **[#15 in Software Engineering](https://csrankings.org/#/index?soft&us)** in the United States on CSRankings (a metrics-based ranking of top CS institutions).
+My work has received multiple [Distinguished Paper Awards](https://aashishyadavally.github.io/research/) at leading SE conferences, and my Ph.D. dissertation received the [Best Dissertation Award](https://aashishyadavally.github.io/awards/) from the Erik Jonsson School of Engineering and Computer Science at UT Dallas!
 
-Feel free to reach out with a copy of your CV and background: *aashish [dot] yadavally [at] ucf [dot] edu*
+#### Join SAIL@UCF
 
-**Research Interests (TL;DR):** &nbsp; AI for Software Engineering, Software Security, Software Maintenance, Large Reasoning Models for Source Code 
+<span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px; font-size:100%;"><strong style="color:#b30000;">We are hiring!</strong></span> &nbsp; I am actively looking for motivated students with a strong foundation in programming languages, software engineering, and/or AI to join our research group, **[SAIL@UCF](https://aashishyadavally.github.io/sail/)** (**S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab).
 
-**Education:** &nbsp; I earned my Ph.D. from the [University of Texas at Dallas](https://cs.utdallas.edu) under the guidance of [Dr. Tien N. Nguyen](https://personal.utdallas.edu/%7Etien.n.nguyen/). My work received the [Best Dissertation Award](https://aashishyadavally.github.io/awards/) in Erik Jonsson School of Engineering and Computer Science.
+UCF is ranked **[#14 in Software Engineering](https://csrankings.org/#/index?soft&us)** in the United States on CSRankings (a metrics-based ranking of top CS institutions).
 
-**Favourite Quotes**
-- *"The future depends on what we do in the present."* ~ Mohandas Karamchand Gandhi
-- *"If you work with determination and with perfection, success will follow."* ~ Dhirubhai Ambani 
+If your interests align with our work, reach out with a copy of your CV and background: *aashish [dot] yadavally [at] ucf [dot] edu*

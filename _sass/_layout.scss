@@ -118,18 +118,61 @@ body.sticky-bottom-footer {
   }
 }
 
-// TODO: redefine content layout.
+// About content and news
+.about-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1.75fr) minmax(270px, 1fr);
+  gap: 2.5rem;
+  align-items: start;
 
+  &__news {
+    padding-left: 1.5rem;
+    border-left: 1px solid var(--global-divider-color);
 
-/******************************************************************************
- * Publications
- ******************************************************************************/
+    h2 {
+      margin: 0 0 0.75rem;
+      font-size: 1.35rem;
 
-// TODO: redefine publications layout.
+      a {
+        color: inherit;
+      }
+    }
 
+    .table-responsive {
+      overflow: visible;
+    }
 
-/*****************************************************************************
-* Projects
-*****************************************************************************/
+    .table {
+      margin-bottom: 0;
 
-// TODO: redefine projects layout.
+      th {
+        width: 5.5rem !important;
+        padding-left: 0;
+        color: var(--global-text-color-light);
+        font-size: 0.72rem;
+        font-weight: 400;
+        white-space: nowrap;
+      }
+
+      td {
+        padding-right: 0;
+        font-size: 0.88rem;
+        line-height: 1.35;
+      }
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .about-main {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+
+    &__news {
+      padding-top: 1.5rem;
+      padding-left: 0;
+      border-top: 1px solid var(--global-divider-color);
+      border-left: 0;
+    }
+  }
+}

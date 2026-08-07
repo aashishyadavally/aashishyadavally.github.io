@@ -10,6 +10,32 @@ $(document).ready(function() {
   });
   $('a').removeClass('waves-effect waves-light');
 
+  // A URL fragment is not available to Jekyll at build time. Update the
+  // active navbar item in the browser for links to sections on another tab.
+  const $navItems = $('.navbar-nav .nav-item');
+  $navItems.each(function() {
+    $(this).data('server-active', $(this).hasClass('active'));
+  });
+
+  function updateFragmentNav() {
+    $navItems.each(function() {
+      $(this).toggleClass('active', $(this).data('server-active'));
+    });
+
+    if (!window.location.hash) return;
+
+    $('.navbar-nav .nav-item[data-nav-fragment]').each(function() {
+      const target = new URL($(this).children('a.nav-link').attr('href'), window.location.origin);
+      if (target.pathname === window.location.pathname && target.hash === window.location.hash) {
+        $navItems.removeClass('active');
+        $(this).addClass('active');
+      }
+    });
+  }
+
+  updateFragmentNav();
+  $(window).on('hashchange', updateFragmentNav);
+
   // bootstrap-toc
   if($('#toc-sidebar').length){
     var navSelector = "#toc-sidebar";
@@ -46,4 +72,3 @@ $(document).ready(function() {
     }
   });
 });
-
