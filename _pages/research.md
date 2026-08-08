@@ -9,6 +9,47 @@ nav_order: 1
 ### Publications
 (arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>Google Scholar</a> for full list)
 
+<style>
+  .publication-filter {
+    display: flex;
+    gap: 0.5rem;
+    margin: 1rem 0 1.5rem;
+  }
+
+  .publication-filter button {
+    padding: 0.4rem 0.85rem;
+    color: var(--global-text-color);
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 999px;
+    cursor: pointer;
+  }
+
+  .publication-filter button.active {
+    color: #1a1a1a;
+    background: #fff3c4;
+    border-color: #c9a227;
+  }
+
+  .sail-publication-flag {
+    display: inline-block;
+    margin-left: 0.35rem;
+    padding: 0.1rem 0.45rem;
+    color: #2b2618;
+    background: #fff3c4;
+    border: 1px solid #d7bc56;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    vertical-align: 0.1rem;
+  }
+</style>
+
+<div class="publication-filter" aria-label="Filter publications">
+  <button type="button" class="active" data-publication-filter="all" aria-pressed="true">All Publications</button>
+  <button type="button" data-publication-filter="sail" aria-pressed="false">SAIL@UCF</button>
+</div>
+
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2026</span>
   <span style="font-size:1em;">(2x ICSE, 1x ACL, 1x OOPSLA, 2x ISSTA, 1x ASE)</span>
@@ -37,7 +78,7 @@ nav_order: 1
    - Proceedings of the ACM on Programming Languages (PACMPL), Vol. 10, ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026), Oakland, California, USA, October 3–9, 2026
 
    
-5. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reasoning about Program Execution**
+5. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reasoning about Program Execution** <span class="sail-publication-flag">SAIL@UCF</span>
    - <span style="text-decoration: underline;">Eshgin Hasanov</span>, Md. Mahadi Hassan, Santu Karmaker, **Aashish Yadavally**
    - Proceedings of the 64th Annual Meeting of the Association of Computational Linguistics, San Diego, USA, July 2-7, 2026
    - Acceptance Rate: 19.0% (total 12,148 submissions)
@@ -186,3 +227,60 @@ nav_order: 1
 [ICSE'25]: https://conf.researchr.org/track/icse-2025/icse-2025-research-track
 [ICSE'24]: https://conf.researchr.org/track/icse-2024/icse-2024-research-track
 [ICSE'24-Poster]: https://conf.researchr.org/track/icse-2024/icse-2024-posters
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const buttons = document.querySelectorAll("[data-publication-filter]");
+    const lists = Array.from(document.querySelectorAll(".post > article > ol"));
+    const separators = document.querySelectorAll(".post > article > hr");
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const showSailOnly = button.dataset.publicationFilter === "sail";
+
+        const url = new URL(window.location.href);
+        if (showSailOnly) {
+          url.searchParams.set("filter", "sail");
+        } else {
+          url.searchParams.delete("filter");
+        }
+        window.history.replaceState({}, "", url);
+
+        buttons.forEach((candidate) => {
+          const active = candidate === button;
+          candidate.classList.toggle("active", active);
+          candidate.setAttribute("aria-pressed", active.toString());
+        });
+
+        lists.forEach((list) => {
+          const publications = Array.from(list.children).filter((item) => item.tagName === "LI");
+
+          publications.forEach((publication) => {
+            const isSailPublication = publication.querySelector(".sail-publication-flag") !== null;
+            publication.hidden = showSailOnly && !isSailPublication;
+          });
+
+          const hasVisiblePublication = publications.some((publication) => !publication.hidden);
+          list.hidden = showSailOnly && !hasVisiblePublication;
+
+          const yearHeading = list.previousElementSibling;
+          if (yearHeading && yearHeading.tagName === "DIV") {
+            yearHeading.hidden = showSailOnly && !hasVisiblePublication;
+
+            const publicationCount = yearHeading.lastElementChild;
+            if (publicationCount) publicationCount.hidden = showSailOnly;
+          }
+        });
+
+        separators.forEach((separator) => {
+          separator.hidden = showSailOnly;
+        });
+      });
+    });
+
+    const initialFilter = new URLSearchParams(window.location.search).get("filter");
+    if (initialFilter === "sail") {
+      document.querySelector('[data-publication-filter="sail"]')?.click();
+    }
+  });
+</script>
