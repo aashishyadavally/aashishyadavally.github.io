@@ -42,8 +42,9 @@ layout: default
 
             {% if page.news and site.announcements.enabled -%}
               <aside class="about-main__news" aria-labelledby="recent-news-heading">
-                <h2 id="recent-news-heading"><a href="{{ '/news/' | relative_url }}">Recent News</a></h2>
+                <h2 id="recent-news-heading">Recent News</h2>
                 {%- include news.html limit=true %}
+                <a class="about-main__news-all" href="{{ '/news/' | relative_url }}">View all news&nbsp;→</a>
               </aside>
             {%- endif %}
           </div>

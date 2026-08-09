@@ -9,6 +9,12 @@ nav_order: 1
 ### Publications
 (arranged in reverse chronological order, see <a href='https://scholar.google.com/citations?user=6c3v-nUAAAAJ&hl=en'>Google Scholar</a> for full list)
 
+<script>
+  if (new URLSearchParams(window.location.search).get("filter") === "sail") {
+    document.documentElement.classList.add("sail-filter-active");
+  }
+</script>
+
 <style>
   .publication-filter {
     display: flex;
@@ -26,9 +32,19 @@ nav_order: 1
   }
 
   .publication-filter button.active {
-    color: #1a1a1a;
-    background: #fff3c4;
-    border-color: #c9a227;
+    color: var(--global-hover-text-color);
+    background: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
+
+  .publication-filter button[data-publication-filter="sail"].active {
+    color: #ffffff;
+    background: var(--sail-gold);
+    border-color: var(--sail-gold);
+  }
+
+  html.sail-filter-active .post > article ol a {
+    color: var(--sail-gold);
   }
 
   .sail-publication-flag {
@@ -37,7 +53,7 @@ nav_order: 1
     padding: 0.1rem 0.45rem;
     color: #2b2618;
     background: #fff3c4;
-    border: 1px solid #d7bc56;
+    border: 1px solid var(--sail-gold);
     border-radius: 999px;
     font-size: 0.72rem;
     font-weight: 600;
@@ -237,6 +253,7 @@ nav_order: 1
     buttons.forEach((button) => {
       button.addEventListener("click", () => {
         const showSailOnly = button.dataset.publicationFilter === "sail";
+        document.documentElement.classList.toggle("sail-filter-active", showSailOnly);
 
         const url = new URL(window.location.href);
         if (showSailOnly) {

@@ -8,24 +8,66 @@ nav_order: 8
 ---
 
 <style>
+  #navbar .navbar-nav .nav-item.active > .nav-link {
+    color: #ffffff;
+    background-color: var(--sail-gold);
+  }
+
+  #navbar .navbar-nav .nav-item.active > .nav-link:hover,
+  #navbar .navbar-nav .nav-item.active > .nav-link:focus-visible {
+    color: #ffffff;
+    background-color: var(--sail-gold-hover);
+  }
+
   .post > .post-header {
     display: none;
   }
 
+  .sail-sticky-header {
+    position: sticky;
+    top: 56px;
+    z-index: 1020;
+    margin-bottom: 1rem;
+    padding-top: 0.4rem;
+    background: var(--global-bg-color);
+    box-shadow: 0 10px 12px -14px rgba(0, 0, 0, 0.45);
+  }
+
+  .sail-sticky-header .sail-banner {
+    margin-bottom: 0.65rem;
+  }
+
+  .sail-jump-nav {
+    margin: 0;
+    padding: 0.35rem 0 0.65rem;
+    font-weight: 700;
+  }
+
+  .sail-jump-nav a {
+    font-weight: 400;
+  }
+
+  #research,
+  #publications,
+  #people,
+  #news {
+    scroll-margin-top: 235px;
+  }
+
   .post article a {
-    color: #c9a227;
-    text-decoration-color: rgba(201, 162, 39, 0.55);
+    color: var(--sail-gold);
+    text-decoration-color: rgba(var(--sail-gold-rgb), 0.55);
     text-underline-offset: 0.15em;
   }
 
   .post article a:hover,
   .post article a:focus-visible {
-    color: #c9a227;
-    text-decoration-color: #c9a227;
+    color: var(--sail-gold);
+    text-decoration-color: var(--sail-gold);
   }
 
   .post article a:focus-visible {
-    outline: 2px solid #c9a227;
+    outline: 2px solid var(--sail-gold);
     outline-offset: 3px;
     border-radius: 2px;
   }
@@ -35,48 +77,47 @@ nav_order: 8
     align-items: center;
     gap: 1.75rem;
     margin-bottom: 2rem;
-    padding: 1.6rem 2rem;
+    padding: 1.25rem 2rem;
     color: #f7f3e8;
     background:
-      radial-gradient(circle at 85% 20%, rgba(255, 204, 0, 0.08), transparent 30%),
+      radial-gradient(circle at 85% 20%, rgba(var(--sail-gold-rgb), 0.08), transparent 30%),
       linear-gradient(135deg, #121212 0%, #22211d 100%);
     border: 1px solid #302e27;
-    border-bottom: 4px solid #d5ad2d;
+    border-bottom: 4px solid var(--sail-gold);
     border-radius: 0.9rem;
-    box-shadow: 0 10px 22px rgba(201, 162, 39, 0.2);
+    box-shadow: 0 10px 22px rgba(var(--sail-gold-rgb), 0.2);
   }
 
-  .sail-logo-placeholder {
+  .sail-logo-wrap {
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    flex: 0 0 110px;
-    width: 110px;
-    height: 110px;
-    color: #e2ca72;
-    border-right: 1px solid rgba(201, 162, 39, 0.35);
-    font-size: 0.7rem;
-    text-align: center;
+    flex: 0 0 149px;
+    width: 149px;
+    height: 100px;
+    padding-right: 1rem;
+    border-right: 1px solid rgba(var(--sail-gold-rgb), 0.35);
   }
 
-  .sail-logo-placeholder i {
-    margin-bottom: 0.35rem;
-    color: #f2cd51;
-    font-size: 3.6rem;
-    filter: drop-shadow(0 3px 5px rgba(201, 162, 39, 0.3));
+  .sail-logo {
+    display: block;
+    width: 134px;
+    height: 134px;
+    border-radius: 0.5rem;
+    object-fit: cover;
+    filter: drop-shadow(0 3px 5px rgba(var(--sail-gold-rgb), 0.3));
   }
 
   .sail-banner-text h2 {
     margin: 0 0 0.35rem;
-    color: #ffffff;
+    color: #ece9e1;
     font-size: 2.25rem;
     font-weight: 700;
     letter-spacing: -0.03em;
   }
 
   .sail-banner-text h2 span {
-    color: #f2c94c;
+    color: var(--sail-gold-bright);
   }
 
   .sail-banner-text p {
@@ -85,68 +126,76 @@ nav_order: 8
     font-size: 1.08rem;
   }
 
+  .sail-banner-text p strong {
+    color: #ece9e1;
+    font-weight: 800;
+  }
+
   .sail-research-layout {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(280px, 0.72fr);
-    gap: 2rem;
+    grid-template-columns: minmax(0, 1.75fr) minmax(270px, 1fr);
+    gap: 2.5rem;
     align-items: start;
     margin: 1.25rem 0 2rem;
   }
 
-  .sail-research-copy h3,
-  .sail-news-panel h3 {
+  .sail-research-copy h3 {
     margin-top: 0;
   }
 
-  .sail-news-panel {
-    padding: 1rem 1.15rem;
-    background: var(--global-card-bg-color);
-    border: 1px solid var(--global-divider-color);
-    border-top: 4px solid #c9a227;
-    border-radius: 0.75rem;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+  .sail-news-all {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 0.75rem;
+    padding: 0.35rem 0.7rem;
+    border: 1px solid var(--sail-gold);
+    border-radius: 999px;
+    font-size: 0.82rem;
+    font-weight: 600;
   }
 
-  .sail-news-panel h3 {
-    margin-bottom: 0.65rem;
-  }
-
-  .sail-news-panel .table-responsive {
-    margin-bottom: 0;
-  }
-
-  .sail-news-panel table {
-    margin-bottom: 0;
-  }
-
-  .sail-news-panel th {
-    width: 32%;
-    white-space: nowrap;
+  .sail-news-all:hover,
+  .sail-news-all:focus-visible {
+    background: rgba(var(--sail-gold-rgb), 0.1);
+    text-decoration: none;
   }
 
   @media (max-width: 600px) {
+    .sail-sticky-header {
+      top: 56px;
+    }
+
     .sail-banner {
       align-items: flex-start;
       gap: 1rem;
-      padding: 1.1rem;
+      padding: 1rem;
     }
 
-    .sail-logo-placeholder {
-      flex-basis: 76px;
-      width: 76px;
+    .sail-logo-wrap {
+      flex-basis: 102px;
+      width: 102px;
       height: 76px;
+      padding-right: 0.75rem;
     }
 
-    .sail-logo-placeholder i {
-      font-size: 2.5rem;
+    .sail-logo {
+      width: 90px;
+      height: 90px;
     }
 
     .sail-banner-text h2 {
       font-size: 1.55rem;
     }
+
+    #research,
+    #publications,
+    #people,
+    #news {
+      scroll-margin-top: 205px;
+    }
   }
 
-  @media (max-width: 850px) {
+  @media (max-width: 767px) {
     .sail-research-layout {
       grid-template-columns: 1fr;
       gap: 1rem;
@@ -154,18 +203,21 @@ nav_order: 8
   }
 </style>
 
-<div class="sail-banner">
-  <div class="sail-logo-placeholder" role="img" aria-label="SAIL lab logo placeholder">
-    <i class="fa-solid fa-sailboat" aria-hidden="true"></i>
-    <span>Logo placeholder</span>
+<div class="sail-sticky-header">
+  <div class="sail-banner">
+    <div class="sail-logo-wrap">
+      <img class="sail-logo" src="{{ '/assets/img/sail-logo.png' | relative_url }}" alt="SAIL@UCF lab logo">
+    </div>
+    <div class="sail-banner-text">
+      <h2>SAIL<span>@UCF</span></h2>
+      <p><strong>S</strong>oftware Engineering and <strong>A</strong>rtificial <strong>I</strong>ntelligence <strong>L</strong>ab</p>
+    </div>
   </div>
-  <div class="sail-banner-text">
-    <h2>SAIL<span>@UCF</span></h2>
-    <p><strong>S</strong>oftware Engineering and <strong>A</strong>rtificial <strong>I</strong>ntelligence <strong>L</strong>ab</p>
-  </div>
-</div>
 
-**Jump to:**  [Research](#research) · [Publications](#publications) · [Students](#students) · [News](#news) · [Join Us](#join-us)
+  <nav class="sail-jump-nav" aria-label="Jump to a SAIL page section">
+    Jump to: <a href="#research">Research</a> · <a href="#publications">Publications</a> · <a href="#people">People</a> · <a href="#news">News</a>
+  </nav>
+</div>
 
 The **S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab (SAIL) at the University of Central Florida studies problems at the intersection of artificial intelligence and software engineering. Our work seeks to understand and improve how large language models reason about software, and to make AI-assisted software development more predictable, controllable, and dependable.
 
@@ -180,8 +232,8 @@ The **S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab (SAIL) 
     </ul>
   </section>
 
-  <aside id="news" class="sail-news-panel" aria-labelledby="sail-news-heading">
-    <h3 id="sail-news-heading">Latest SAIL News</h3>
+  <aside id="news" class="about-main__news" aria-labelledby="sail-news-heading">
+    <h2 id="sail-news-heading">Recent News</h2>
     <div class="news">
       <div class="table-responsive">
         <table class="table table-sm table-borderless">
@@ -203,15 +255,16 @@ The **S**oftware Engineering and **A**rtificial **I**ntelligence **L**ab (SAIL) 
         </table>
       </div>
     </div>
+    <a class="sail-news-all" href="{{ '/news/?filter=sail' | relative_url }}">View all SAIL news&nbsp;→</a>
   </aside>
 </div>
 
-### Publications
+### **Publications**
 
 See our [research and publications]({{ '/research/?filter=sail#publications' | relative_url }}) for recent work from the lab.
 
 
-### Students
+### **People**
 
 <style>
   .sail-student-grid {
@@ -219,6 +272,23 @@ See our [research and publications]({{ '/research/?filter=sail#publications' | r
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1rem;
     margin: 1rem 0 1.5rem;
+  }
+
+  .sail-student-heading {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+  }
+
+  .sail-student-heading::before {
+    content: "";
+    width: 0.65rem;
+    height: 0.65rem;
+    flex: 0 0 0.65rem;
+    background: #1a1a1a;
+    border-radius: 50%;
   }
 
   @media (max-width: 600px) {
@@ -260,6 +330,8 @@ See our [research and publications]({{ '/research/?filter=sail#publications' | r
   .sail-student-card h4 {
     margin-top: 0;
     margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: 350;
   }
 
   .sail-student-card p {
@@ -269,80 +341,72 @@ See our [research and publications]({{ '/research/?filter=sail#publications' | r
   .sail-student-card.phd {
     background: #fff9e6;
     color: #2b2618;
-    border: 1px solid #eadca8;
-    border-top: 5px solid #c9a227;
   }
 
   .sail-student-card.undergraduate {
     background: #f2f6fa;
     color: #152536;
-    border: 1px solid #d5e0e9;
-    border-top: 5px solid #5f82a3;
   }
 </style>
 
-#### Ph.D. Students
+<h4 class="sail-student-heading phd">Ph.D. Students</h4>
 
 <div class="sail-student-grid">
   <div class="sail-student-card phd">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Showvik Biswas</h4>
-    <p><strong>1st Year Ph.D. Student</strong></p>
+    <p>Ph.D. Student · Fall 2026–present</p>
     <p>🏆 ORCGS Doctoral Fellow, 2026</p>
   </div>
   <div class="sail-student-card phd">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Seth Jones</h4>
-    <p><strong>1st Year Ph.D. Student</strong></p>
+    <p>Ph.D. Student · Fall 2026–present</p>
     <p>🏆 ORCGS Doctoral Fellow, 2026</p>
   </div>
   <div class="sail-student-card phd">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Yash Burshe</h4>
-    <p><strong>1st Year Ph.D. Student</strong></p>
+    <p>Ph.D. Student · Fall 2026–present</p>
     <p>(co-advised by Dr. Kevin Moran)</p>
   </div>
   <div class="sail-student-card phd">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Ryan Garfinkel</h4>
-    <p><strong>1st Year Ph.D. Student</strong></p>
+    <p>Ph.D. Student · Fall 2026–present</p>
     <p>(co-advised by Dr. Paul Gazzillo)</p>
   </div>
   <div class="sail-student-card phd">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Eshgin Hasanov</h4>
-    <p><strong>3rd Year Ph.D. Student</strong></p>
+    <p>Ph.D. Student · Fall 2025–present</p>
   </div>
 </div>
 
-#### Undergraduate Students
+<h4 class="sail-student-heading undergraduate">Undergraduate Students</h4>
 
 <div class="sail-student-grid">
   <div class="sail-student-card undergraduate">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Alex Kemper</h4>
-    <p><strong>3rd Year Undergraduate Student</strong></p>
+    <p>2026 - </p>
+    <p>3rd Year Undergraduate Student</p>
   </div>
 </div>
 
-#### Alumni
+<h4 class="sail-student-heading alumni">Alumni</h4>
 
 <div class="sail-student-grid">
   <div class="sail-student-card undergraduate">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Seth Jones</h4>
-    <p>First Job After Graduation: Joined SAIL@UCF as Ph.D. Student</p>
+    <p>2025 - 2026</p>
+    <p>Joined SAIL@UCF as Ph.D. Student</p>
   </div>
   <div class="sail-student-card undergraduate">
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Dylan Dinh</h4>
-    <p>First Job After Graduation: Lorem Ipsum</p>
+    <p>2026</p>
+    <p>Joined Eisco Scientific as A.I. Engineering Intern</p>
   </div>
 </div>
-
-
-### Join Us
-
-<span style="background-color:#fff8dd; color:#b30000; padding:2px 6px; border-radius:4px;"><strong style="color:#b30000;">We are hiring!</strong></span>
-
-We are looking for motivated students with a strong foundation in programming languages, software engineering, and/or artificial intelligence. If your interests align with our work, email *aashish [dot] yadavally [at] ucf [dot] edu* with a copy of your CV and a brief description of your research interests and background.

@@ -1,5 +1,63 @@
           <div class="news">
             {% if site.news != blank -%}
+            {% if include.filter %}
+            <script>
+              if (new URLSearchParams(window.location.search).get("filter") === "sail") {
+                document.documentElement.classList.add("sail-filter-active");
+              }
+            </script>
+
+            <style>
+              .news-filter {
+                display: flex;
+                gap: 0.5rem;
+                margin: 0 0 1.25rem;
+              }
+
+              .news-filter button {
+                padding: 0.4rem 0.85rem;
+                color: var(--global-text-color);
+                background: var(--global-bg-color);
+                border: 1px solid var(--global-divider-color);
+                border-radius: 999px;
+                cursor: pointer;
+              }
+
+              .news-filter button.active {
+                color: var(--global-hover-text-color);
+                background: var(--global-theme-color);
+                border-color: var(--global-theme-color);
+              }
+
+              .news-filter button[data-news-filter="sail"].active {
+                color: #ffffff;
+                background: var(--sail-gold);
+                border-color: var(--sail-gold);
+              }
+
+              html.sail-filter-active .news [data-news-item]:not([hidden]) a {
+                color: var(--sail-gold);
+              }
+
+              .news-sail-flag {
+                display: inline-block;
+                margin-left: 0.35rem;
+                padding: 0.1rem 0.45rem;
+                color: #2b2618;
+                background: #fff3c4;
+                border: 1px solid var(--sail-gold);
+                border-radius: 999px;
+                font-size: 0.72rem;
+                font-weight: 600;
+                white-space: nowrap;
+              }
+            </style>
+
+            <div class="news-filter" aria-label="Filter news">
+              <button type="button" class="active" data-news-filter="all" aria-pressed="true">All News</button>
+              <button type="button" data-news-filter="sail" aria-pressed="false">SAIL@UCF</button>
+            </div>
+            {% endif %}
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if include.limit and site.announcements.scrollable and news_size > 3 %}style="max-height: 60vw"{% endif %}>
               <table class="table table-sm table-borderless">
@@ -10,7 +68,7 @@
               {% assign news_limit = news_size %}
               {% endif %}
               {% for item in news limit: news_limit %}
-                <tr>
+                <tr{% if include.filter %} data-news-item data-sail="{{ item.sail | default: false }}"{% endif %}>
                   <th scope="row" style="width: 20%">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
                     {% if item.inline -%}
@@ -18,11 +76,50 @@
                     {%- else -%}
                       <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {%- endif %}
+                    {% if include.filter and item.sail %}<span class="news-sail-flag">SAIL@UCF</span>{% endif %}
                   </td>
                 </tr>
               {%- endfor %}
               </table>
             </div>
+            {% if include.filter %}
+            <script>
+              document.addEventListener("DOMContentLoaded", () => {
+                const buttons = document.querySelectorAll("[data-news-filter]");
+                const newsItems = document.querySelectorAll("[data-news-item]");
+
+                const applyNewsFilter = (filter) => {
+                  const showSailOnly = filter === "sail";
+                  document.documentElement.classList.toggle("sail-filter-active", showSailOnly);
+
+                  newsItems.forEach((item) => {
+                    item.hidden = showSailOnly && item.dataset.sail !== "true";
+                  });
+
+                  buttons.forEach((button) => {
+                    const active = button.dataset.newsFilter === filter;
+                    button.classList.toggle("active", active);
+                    button.setAttribute("aria-pressed", active.toString());
+                  });
+
+                  const url = new URL(window.location.href);
+                  if (showSailOnly) {
+                    url.searchParams.set("filter", "sail");
+                  } else {
+                    url.searchParams.delete("filter");
+                  }
+                  window.history.replaceState({}, "", url);
+                };
+
+                buttons.forEach((button) => {
+                  button.addEventListener("click", () => applyNewsFilter(button.dataset.newsFilter));
+                });
+
+                const initialFilter = new URLSearchParams(window.location.search).get("filter");
+                applyNewsFilter(initialFilter === "sail" ? "sail" : "all");
+              });
+            </script>
+            {% endif %}
           {%- else -%}
             <p>No news so far...</p>
           {%- endif %}
