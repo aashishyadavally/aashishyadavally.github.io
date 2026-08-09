@@ -126,6 +126,8 @@ body.sticky-bottom-footer {
   align-items: start;
 
   &__news {
+    display: flex;
+    flex-direction: column;
     padding-left: 1.5rem;
     border-left: 1px solid var(--global-divider-color);
 
@@ -164,6 +166,8 @@ body.sticky-bottom-footer {
     &-all {
       display: inline-flex;
       align-items: center;
+      align-self: flex-start;
+      clear: both;
       margin-top: 0.75rem;
       padding: 0.35rem 0.7rem;
       border: 1px solid var(--global-theme-color);
@@ -190,6 +194,10 @@ body.sticky-bottom-footer {
       padding-left: 0;
       border-top: 1px solid var(--global-divider-color);
       border-left: 0;
+    }
+
+    &__news-all {
+      margin-top: 1.25rem;
     }
   }
 }

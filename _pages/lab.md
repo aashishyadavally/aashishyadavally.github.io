@@ -146,6 +146,8 @@ nav_order: 8
   .sail-news-all {
     display: inline-flex;
     align-items: center;
+    align-self: flex-start;
+    clear: both;
     margin-top: 0.75rem;
     padding: 0.35rem 0.7rem;
     border: 1px solid var(--sail-gold);
@@ -199,6 +201,10 @@ nav_order: 8
     .sail-research-layout {
       grid-template-columns: 1fr;
       gap: 1rem;
+    }
+
+    .sail-news-all {
+      margin-top: 1.25rem;
     }
   }
 </style>
