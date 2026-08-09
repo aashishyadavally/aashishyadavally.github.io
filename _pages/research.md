@@ -89,7 +89,7 @@ nav_order: 1
    - Acceptance Rate: 23.6% (210 out of 888 papers accepted)
 
 
-4. **[[OOPSLA'26]](https://2026.splashcon.org/track/oopsla-2026)** **T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics**
+4. **[[OOPSLA'26]](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2026.pdf)** **T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics**
    - Yan Wang, Ling Ding, Jiechen Sun, Tien N. Nguyen, Shaohua Wang, **Aashish Yadavally**, Xin Xia, Yanan Zheng
    - Proceedings of the ACM on Programming Languages (PACMPL), Vol. 10, ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026), Oakland, California, USA, October 3–9, 2026
 
