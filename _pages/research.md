@@ -43,6 +43,10 @@ nav_order: 1
     border-color: var(--sail-gold);
   }
 
+  .publication-count {
+    font-size: 0.8em;
+  }
+
   html.sail-filter-active .post > article ol a {
     color: var(--sail-gold);
   }
@@ -68,7 +72,7 @@ nav_order: 1
 
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2026</span>
-  <span style="font-size:1em;">(2x ICSE, 1x ACL, 1x OOPSLA, 2x ISSTA, 1x ASE)</span>
+  <span class="publication-count">(2x ICSE, 1x ACL, 1x OOPSLA, 2x ISSTA, 1x ASE)</span>
 </div>  
 
 1. **[[ASE'26]](https://aashishyadavally.github.io/assets/pdf/pub-ase2026.pdf)** **Post-Hoc Attention Steering of Large Language Models for Robust Code Understanding under Obfuscation**
@@ -114,7 +118,7 @@ nav_order: 1
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2025</span>
-  <span style="font-size:1em;">(2x ICSE, 2x FSE, PhD Dissertation)</span>
+  <span class="publication-count">(2x ICSE, 2x FSE, PhD Dissertation)</span>
 </div>  
 
 1. **[[FSE'25](https://aashishyadavally.github.io/assets/pdf/pub-fse2025-(1).pdf)]** **CRISPE: Semantic-Guided Execution Planning and Dynamic Reasoning for Enhancing Code Coverage Prediction**
@@ -149,7 +153,7 @@ nav_order: 1
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2024</span>
-  <span style="font-size:1em;">(3x ICSE, 1x FSE, 1x OOPSLA, 1x FORGE)</span>
+  <span class="publication-count">(3x ICSE, 1x FSE, 1x OOPSLA, 1x FORGE)</span>
 </div>  
 
 1. **[[OOPSLA'24](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2024.pdf)]** **A Learning-Based Approach to Static Program Slicing**
@@ -189,7 +193,7 @@ nav_order: 1
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2023</span>
-  <span style="font-size:1em;">(2x ICSE, 2x ESEC/FSE)</span>
+  <span class="publication-count">(2x ICSE, 2x ESEC/FSE)</span>
 </div>  
 
 1. **[[ICSE'23](https://aashishyadavally.github.io/assets/pdf/pub-icse2023-(2).pdf)]** **DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection**
@@ -219,7 +223,7 @@ nav_order: 1
 ---
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2022</span>
-  <span style="font-size:1em;">(2x ASE, 1x SANER)</span>
+  <span class="publication-count">(2x ASE, 1x SANER)</span>
 </div>  
 
 1. **[[ASE'22](https://aashishyadavally.github.io/assets/pdf/pub-ase2022-(1).pdf)]** **A Hybrid Approach for Inference between Behavioral Exception API Documentation and Implementations, and Its Applications**
