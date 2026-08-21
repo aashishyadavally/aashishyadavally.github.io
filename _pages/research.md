@@ -72,45 +72,50 @@ nav_order: 1
 
 <div style="display:flex; justify-content:space-between; font-size:1.25em;">
   <span style="font-weight:bold; font-size:1.25em;">2026</span>
-  <span class="publication-count">(2x ICSE, 1x ACL, 1x OOPSLA, 2x ISSTA, 1x ASE)</span>
+  <span class="publication-count">(2x ICSE, 1x ACL, 1x OOPSLA, 2x ISSTA, 1x ASE, 1x TOSEM)</span>
 </div>  
 
-1. **[[ASE'26]](https://aashishyadavally.github.io/assets/pdf/pub-ase2026.pdf)** **Post-Hoc Attention Steering of Large Language Models for Robust Code Understanding under Obfuscation**
+1. **[[TOSEM'26]](https://dl.acm.org/journal/TOSEM)** **LLMVulFinder: Letting Large Language Models Tell All**
+   - Yan Wang<sup>†</sup>, Dehang Fu<sup>†</sup>, Yanan Zheng<sup>†</sup>, Tien N. Nguyen, Ling Ding, **Aashish Yadavally**, Shaohua Wang  (†: joint first authors)
+   - ACM Transactions on Software Engineering and Methodology (TOSEM), 2026.
+
+
+2. **[[ASE'26]](https://aashishyadavally.github.io/assets/pdf/pub-ase2026.pdf)** **Post-Hoc Attention Steering of Large Language Models for Robust Code Understanding under Obfuscation**
    - Xiaokai Rong, **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering, Munich, Germany, October 12-16, 2026
    - Acceptance Rate: 20.2% (263 out of 1,304 papers accepted)
 
 
-2. **[[ISSTA'26]](https://conf.researchr.org/home/issta-2026)** **On Behavioral Alignment of Model-Code and Human-Code Understandability**
+3. **[[ISSTA'26]](https://conf.researchr.org/home/issta-2026)** **On Behavioral Alignment of Model-Code and Human-Code Understandability**
    - Xiaokai Rong, **Aashish Yadavally**, Hridya Dhulipala, Anh H. N. Nguyen, Tien N. Nguyen
    - Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, California, USA, October 3–9, 2026
    - Acceptance Rate: 23.6% (210 out of 888 papers accepted)
 
 
-3. **[[ISSTA'26]](https://arxiv.org/pdf/2608.04459)** **AdaptAgent: A Multi-Agent, Domain-Guided Reasoning Framework for Code Adaptation**
+4. **[[ISSTA'26]](https://arxiv.org/pdf/2608.04459)** **AdaptAgent: A Multi-Agent, Domain-Guided Reasoning Framework for Code Adaptation**
    - Xiaokai Rong, Hridya Dhulipala, **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), Oakland, California, USA, October 3–9, 2026
    - Acceptance Rate: 23.6% (210 out of 888 papers accepted)
 
 
-4. **[[OOPSLA'26]](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2026.pdf)** **T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics**
+5. **[[OOPSLA'26]](https://aashishyadavally.github.io/assets/pdf/pub-oopsla2026.pdf)** **T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics**
    - Yan Wang, Ling Ding, Jiechen Sun, Tien N. Nguyen, Shaohua Wang, **Aashish Yadavally**, Xin Xia, Yanan Zheng
    - Proceedings of the ACM on Programming Languages (PACMPL), Vol. 10, ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2026), Oakland, California, USA, October 3–9, 2026
 
    
-5. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reasoning about Program Execution** <span class="sail-publication-flag">SAIL@UCF</span>
+6. **[[ACL'26](https://aashishyadavally.github.io/assets/pdf/pub-acl2026.pdf)]** **The Path Not Taken: Duality in Reasoning about Program Execution** <span class="sail-publication-flag">SAIL@UCF</span>
    - <span style="text-decoration: underline;">Eshgin Hasanov</span>, Md. Mahadi Hassan, Santu Karmaker, **Aashish Yadavally**
    - Proceedings of the 64th Annual Meeting of the Association of Computational Linguistics, San Diego, USA, July 2-7, 2026
    - Acceptance Rate: 19.0% (total 12,148 submissions)
 
    
-6. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(1).pdf)]** **Large Language Model-Aided Partial Program Dependence Analysis**
+7. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(1).pdf)]** **Large Language Model-Aided Partial Program Dependence Analysis**
    - **Aashish Yadavally**<sup>†</sup>, Xiaokai Rong<sup>†</sup>, Tien N. Nguyen (†: joint first authors)
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
    - Acceptance Rate: 21.9% (321 out of 1469 papers accepted)
 
   
-7. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(2).pdf)]** **From Seed to Scope: Reasoning to Identify Change Impact Sets**
+8. **[[ICSE'26](https://aashishyadavally.github.io/assets/pdf/pub-icse2026-(2).pdf)]** **From Seed to Scope: Reasoning to Identify Change Impact Sets**
    - **Aashish Yadavally**, Tien N. Nguyen
    - Proceedings of the 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, April 12-18, 2026
    - Acceptance Rate: 21.9% (321 out of 1469 papers accepted)
