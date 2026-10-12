@@ -24,6 +24,7 @@ nav_order: 6
   - *Hosts*:  Prof. Dr. Jacques Klein, Prof. Dr. Tegawendé Bissyandé
 
 ### Paper Presentations
+* 10/2024 - “*T-REX: Teaching Large Language Models to Reason with Verbalized Execution Semantics*“, **OOPSLA 2026**.
 * 10/2024 - “*A Learning-Based Approach to Static Program Slicing*“, **OOPSLA 2024**.
 * 06/2024 - “*Predictive Program Slicing via Execution Knowledge-Guided Dynamic Dependence Learning*“, **FSE 2024**.
 * 01/2024 - "*Commit-level, Neural Vulnerability Detection and Assessment*", **ESEC/FSE 2023**.
