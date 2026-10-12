@@ -380,6 +380,7 @@ See our [research and publications]({{ '/research/?filter=sail#publications' | r
     <div class="sail-student-photo" role="img" aria-label="Photo placeholder">Photo</div>
     <h4>Ryan Garfinkel</h4>
     <p>Ph.D. Student · Fall 2026–present</p>
+    <p>🏆 ORCGS Doctoral Fellow, 2026</p>
     <p>(co-advised by Dr. Paul Gazzillo)</p>
   </div>
   <div class="sail-student-card phd">
