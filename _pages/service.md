@@ -22,9 +22,12 @@ nav_order: 4
   🏆 <strong style="color:#b30000;">Distinguished Reviewer Award</strong>
   </span>
   - 2024: Junior Program Committee, *Technical Track*
+* **[LangCode@NAACL]** The First Language and Code Workshop at NAACL
+  - 2026: Program Committee
 * **[ASE]** International Conference on Automated Software Engineering
   - 2026: Program Committee, *New Ideas and Emerging Results Track*
 * **[ISSTA]** International Symposium on Software Testing and Analysis
+  - 2026: Conference Session Chair, ``*Agentic Software Development*''
   - 2026: Program Committee, *Technical Track*
 * **[ICLR]** International Conference on Learning Representation
   - 2026: Reviewer, *Research Track*
